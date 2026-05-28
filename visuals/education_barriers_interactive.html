@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BAY Education Barriers — Interactive</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<style> body{font-family:sans-serif;margin:0;padding:0} header{position:fixed;top:0;left:0;right:0;height:48px;background:#fff;z-index:1000;padding:6px 10px;box-shadow:0 1px 2px rgba(0,0,0,0.12)} #map{position:absolute;top:56px;bottom:0;left:0;right:0} .ctrl{display:inline-block;margin-left:10px} .legend{background:white;padding:6px;border-radius:4px;font-size:12px}</style>
+</head>
+<body>
+<header>
+  <strong>BAY Education Barriers — Interactive</strong>
+  <div class="ctrl">
+    <label for="yearSel">Conflict year:</label>
+    <select id="yearSel"><option>Loading...</option></select>
+    <button id="showAll">Show all years</button>
+  </div>
+</header>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+function getColor(d){
+    return d>0.8 ? '#800026' : d>0.6 ? '#BD0026' : d>0.4 ? '#E31A1C' : d>0.2 ? '#FC4E2A' : d>0.1 ? '#FD8D3C' : '#FEB24C';
+}
+var map = L.map('map').setView([11,12.5],8);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OSM'}).addTo(map);
+
+var lgaLayer, schoolsLayer, idpLayer, conflictByYear={}, currentConflictLayer=null;
+
+// LGA choropleth
+fetch('../data/processed/lga_gap_index.geojson').then(r=>r.json()).then(function(data){
+    lgaLayer = L.geoJSON(data,{style:function(feature){var v=feature.properties.gap_index||0;return {fillColor:getColor(v),weight:1,color:'#444',fillOpacity:0.7}},onEachFeature:function(f,layer){var p=f.properties;layer.bindPopup('<b>'+ (p.LGA_name||p.name) +'</b><br/>State: '+(p.admin1||'')+'<br/>Gap index: '+(p.gap_index && p.gap_index.toFixed? p.gap_index.toFixed(3):p.gap_index)+'<br/>Schools: '+(p.schools||0)+'<br/>Pop (approx): '+(p.population? Math.round(p.population).toLocaleString() : '0')+'<br/>IDP pop: '+(p.idp? Math.round(p.idp).toLocaleString() : '0'));}},).addTo(map);
+    map.fitBounds(lgaLayer.getBounds());
+});
+
+// Schools shown as LGA centroid markers derived from lgaLayer
+schoolsLayer = L.layerGroup();
+if(lgaLayer){
+  lgaLayer.eachLayer(function(layer){
+    var p = layer.feature.properties || {};
+    var sc = parseInt(p.schools) || 0;
+    if(sc<=0) return;
+    var c = layer.getBounds().getCenter();
+    var r = Math.max(4, Math.log(sc+1)*3);
+    var m = L.circleMarker([c.lat,c.lng],{radius:r,fillColor:'green',color:'#0a0',weight:1,fillOpacity:0.9});
+    m.bindPopup('<b>Schools (LGA)</b><br/>' + (p.LGA_name||p.name||'') + '<br/>Count: ' + sc);
+    schoolsLayer.addLayer(m);
+  });
+}
+schoolsLayer.addTo(map);
+
+
+// IDP
+fetch('../data/idp.geojson').then(r=>r.json()).then(function(data){
+    idpLayer = L.markerClusterGroup();
+    data.features.forEach(function(f){var c=f.geometry.coordinates; var m=L.marker([c[1],c[0]]); m.bindPopup('<b>IDP</b><br/>'+ (f.properties.site_name||'') +'<br/>Pop:'+ (f.properties.population||'')); idpLayer.addLayer(m);});
+    idpLayer.addTo(map);
+});
+
+// Conflicts: build by year
+fetch('../data/conflict.geojson').then(r=>r.json()).then(function(data){
+    data.features.forEach(function(f){
+        var yr = f.properties.year || f.properties['year'] || (f.properties.date? (new Date(f.properties.date)).getFullYear() : null);
+        if(!yr) return;
+        yr = String(yr);
+        if(!(yr in conflictByYear)) conflictByYear[yr]=[];
+        conflictByYear[yr].push(f);
+    });
+    // populate selector for years 2020-2025 if present
+    var years = Object.keys(conflictByYear).map(Number).sort(function(a,b){return b-a});
+    var sel = document.getElementById('yearSel'); sel.innerHTML='';
+    var filtered = years.filter(function(y){ return y>=2020 && y<=2025; });
+    var useYears = filtered.length? filtered : years;
+    useYears.forEach(function(y){var opt=document.createElement('option'); opt.value=String(y); opt.text=String(y); sel.appendChild(opt);});
+    if(useYears.length>0){ sel.value=String(useYears[0]); showYear(String(useYears[0])); }
+});
+
+function showYear(year){ if(currentConflictLayer){ map.removeLayer(currentConflictLayer); currentConflictLayer=null; } var features = conflictByYear[year] || []; var mc=L.markerClusterGroup(); features.forEach(function(f){ var c=f.geometry.coordinates; var props=f.properties||{}; var m=L.marker([c[1],c[0]]); m.bindPopup('<b>Conflict</b><br/>'+ (props.where_description||props.where_notes||'') + '<br/>Year: '+(props.year||'') + '<br/>Deaths: '+(props.deaths||'') ); mc.addLayer(m); }); currentConflictLayer=mc; if(features.length>0) map.addLayer(mc); }
+
+document.getElementById('yearSel').addEventListener('change', function(){ showYear(this.value); });
+document.getElementById('showAll').addEventListener('click', function(){ if(currentConflictLayer){ map.removeLayer(currentConflictLayer); currentConflictLayer=null;} var mc=L.markerClusterGroup(); Object.keys(conflictByYear).forEach(function(y){ conflictByYear[y].forEach(function(f){ var c=f.geometry.coordinates; var m=L.marker([c[1],c[0]]); m.bindPopup('<b>Conflict</b><br/>' + (f.properties.where_description||'') + '<br/>Year: '+(f.properties.year||'') ); mc.addLayer(m); }); }); currentConflictLayer=mc; map.addLayer(mc); });
+
+// Legend for Gap Index
+var legend = L.control({position:'bottomright'});
+legend.onAdd = function(map){var div = L.DomUtil.create('div','legend'); var grades=[0,0.1,0.2,0.4,0.6,0.8]; div.innerHTML='<b>LGA Gap index</b><br/>'; for(var i=0;i<grades.length;i++){ div.innerHTML += '<i style="background:'+getColor(grades[i]+0.01)+';width:18px;height:12px;display:inline-block;margin-right:6px"></i> ' + grades[i] + (grades[i+1]? '&ndash;'+grades[i+1] : '+') + '<br/>'; } return div; };
+legend.addTo(map);
+
+</script>
+</body>
+</html>

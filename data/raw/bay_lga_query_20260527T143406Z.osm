@@ -1,0 +1,10 @@
+[out:json][timeout:300];
+area["name"="Borno"][admin_level=4]->.borno;
+area["name"="Adamawa"][admin_level=4]->.adamawa;
+area["name"="Yobe"][admin_level=4]->.yobe;
+(
+  relation["admin_level"="6"](area.borno);
+  relation["admin_level"="6"](area.adamawa);
+  relation["admin_level"="6"](area.yobe);
+);
+out geom;

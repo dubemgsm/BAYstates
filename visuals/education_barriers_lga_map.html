@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BAY Education Barriers — LGA level</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+<style> body{font-family:sans-serif;margin:0;padding:0} #map{position:absolute;top:40px;bottom:0;left:0;right:0} header{position:fixed;top:0;left:0;right:0;height:40px;background:#fff;z-index:1000;padding:8px;box-shadow:0 1px 2px rgba(0,0,0,0.1)} .legend{background:white;padding:6px;border-radius:4px;font-size:12px}</style>
+</head>
+<body>
+<header><strong>BAY Education Barriers — LGA Gap Index</strong></header>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script>
+function getColor(d){
+    return d>0.8 ? '#800026' : d>0.6 ? '#BD0026' : d>0.4 ? '#E31A1C' : d>0.2 ? '#FC4E2A' : d>0.1 ? '#FD8D3C' : '#FEB24C';
+}
+var map = L.map('map').setView([11,12.5],8);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OSM'}).addTo(map);
+fetch('../data/processed/lga_gap_index.geojson').then(r=>r.json()).then(function(data){
+    L.geoJSON(data,{style:function(feature){var v=feature.properties.gap_index||0;return {fillColor:getColor(v),weight:1,color:'#444',fillOpacity:0.7}},onEachFeature:function(f,layer){var p=f.properties;layer.bindPopup('<b>'+p.LGA_name+'</b><br/>State: '+p.admin1+'<br/>Gap index: '+(p.gap_index.toFixed? p.gap_index.toFixed(3):p.gap_index)+'<br/>Schools: '+p.schools+'<br/>Pop (approx): '+Math.round(p.population).toLocaleString()+'<br/>IDP pop: '+Math.round(p.idp).toLocaleString())}}).addTo(map);
+    map.fitBounds(L.geoJSON(data).getBounds());
+});
+var legend = L.control({position:'bottomright'});
+legend.onAdd = function(map){var div=L.DomUtil.create('div','legend');var grades=[0,0.1,0.2,0.4,0.6,0.8];div.innerHTML='<b>Gap index</b><br/>' ;for(var i=0;i<grades.length;i++){div.innerHTML += '<i style="background:'+getColor(grades[i]+0.01)+';width:18px;height:12px;display:inline-block;margin-right:6px"></i> ' + grades[i] + (grades[i+1]? '&ndash;'+grades[i+1] : '+') + '<br/>';}return div};legend.addTo(map);
+</script>
+</body>
+</html>

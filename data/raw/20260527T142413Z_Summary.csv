@@ -1,0 +1,8 @@
+State,State code,IDP Households,IDP Individuals,Returnee Households,Returnee Individuals,Total Households,Total Individuals
+#adm1+name,#adm1+code,#affected+idps+hh,#affected+idps+ind,#affected+ret+hh,#affected+ret+ind,#affected+hh,#affected+ind
+Adamawa,NGA002,36098,204557,140916,898475,177014,1103032
+Bauchi,NGA005,10721,64787,1976,11662,12697,76449
+Borno,NGA008,384957,1749662,162016,897714,546973,2647376
+Gombe,NGA016,8114,52980,1034,6299,9148,59279
+Taraba,NGA035,9207,52972,2799,16395,12006,69367
+Yobe,NGA036,26137,167519,53212,358773,79349,526292

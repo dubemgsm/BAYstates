@@ -1,0 +1,66 @@
+csv_lga,matched_gadm_name,gadm_index,count,score
+bade,bade,49,80,1.000
+bursari,borsari,50,80,0.857
+damaturu,damaturu,51,74,1.000
+fika,fika,52,139,1.000
+fune,fune,53,137,1.000
+geidam,geidam,54,56,1.000
+gujba,gujba,55,80,1.000
+gulani,gulani,56,68,1.000
+jakusko,jakusko,57,94,1.000
+karasuwa,karasuwa,58,53,1.000
+machina,machina,59,35,1.000
+nangere,nangere,60,93,1.000
+nguru,nguru,61,95,1.000
+potiskum,potiskum,62,118,1.000
+tarmua,tarmuwa,63,52,0.923
+yunusari,yunusari,64,55,1.000
+yusufari,yusufari,65,72,1.000
+demsa,demsa,0,231,1.000
+fufore,fufore,1,249,1.000
+ganye,ganye,2,278,1.000
+girei,girie,3,203,0.800
+gombi,gombi,4,192,1.000
+guyuk,guyuk,5,174,1.000
+hong,hong,6,263,1.000
+jada,jada,7,231,1.000
+lamurde,lamurde,8,146,1.000
+madagali,madagali,9,173,1.000
+maiha,maiha,10,127,1.000
+mayo-belwa,mayo-belwa,11,261,1.000
+michika,michika,12,238,1.000
+mubi north,mubi north,13,163,1.000
+mubi south,mubi south,14,139,1.000
+numan,numan,15,151,1.000
+shelleng,shelleng,16,107,1.000
+song,song,17,240,1.000
+toungo,teungo,18,86,0.833
+yola north,yola north,19,161,1.000
+yola south,yola south,20,198,1.000
+abadam,abadam,21,27,1.000
+askira / uba,askira/uba,22,117,0.909
+bama,bama,23,117,1.000
+bayo,bayo,24,46,1.000
+biu,biu,25,109,1.000
+chibok,chibok,26,74,1.000
+damboa,damboa,27,131,1.000
+dikwa,dikwa,28,45,1.000
+gubio,gubio,29,24,1.000
+guzamala,guzamala,30,28,1.000
+gwoza,gwoza,31,125,1.000
+hawul,hawul,32,142,1.000
+jere,jere,33,103,1.000
+kaga,kaga,34,53,1.000
+kala / balge,kala/balge,35,41,0.909
+konduga,konduga,36,92,1.000
+kukawa,kukawa,37,42,1.000
+kwaya kusar,kwaya kusar,38,56,1.000
+mafa,mafa,40,50,1.000
+magumeri,magumeri,41,26,1.000
+maiduguri,maiduguri,42,123,1.000
+marte,marte,43,47,1.000
+mobbar,mobbar,44,27,1.000
+monguno,monguno,45,60,1.000
+ngala,ngala,46,39,1.000
+nganzai,nganzai,47,30,1.000
+shani,shani,48,63,1.000

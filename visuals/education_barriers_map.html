@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BAY Education Barriers Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+<style> body{font-family:sans-serif} #map{height:88vh;margin:8px;} .legend {background:white;padding:6px;border-radius:4px;font-size:12px}</style>
+</head>
+<body>
+<h3>BAY Education Barriers — Schools (green), IDP sites (red), LGA boundaries</h3>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script>
+var map=L.map('map').setView([10.5,12.5],7);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OSM'}).addTo(map);
+function styleLGA(feature){return {color:'#444',weight:1,fill:false}}
+function onEachFeature(feature,layer){if(feature.properties && feature.properties.name){layer.bindPopup(feature.properties.name)}}
+fetch('../data/lga_boundaries.geojson').then(r=>r.json()).then(data=>{L.geoJSON(data,{style:styleLGA,onEachFeature:onEachFeature}).addTo(map)})
+// Schools represented by LGA centroid markers (counts from processed file)
+fetch('../data/processed/lga_gap_index.geojson').then(r=>r.json()).then(function(data){
+  var sg = L.layerGroup();
+  data.features.forEach(function(f){var p=f.properties||{}; var sc = parseInt(p.schools)||0; if(sc<=0) return; var coords = f.geometry && f.geometry.coordinates && f.geometry.coordinates.flat(2); if(!coords) return; var lons=[], lats=[]; for(var i=0;i<coords.length;i+=2){ lons.push(coords[i]); lats.push(coords[i+1]); } var lon=(Math.min.apply(null,lons)+Math.max.apply(null,lons))/2; var lat=(Math.min.apply(null,lats)+Math.max.apply(null,lats))/2; var r=Math.max(4, Math.log(sc+1)*3); var m=L.circleMarker([lat,lon],{radius:r,fillColor:'green',color:'#0a0',weight:1,opacity:1,fillOpacity:0.8}); m.bindPopup('<b>Schools (LGA)</b><br/>' + (p.LGA_name||p.name||'') + '<br/>Count: ' + sc); sg.addLayer(m);} );
+  sg.addTo(map);
+});
+fetch('../data/idp.geojson').then(r=>r.json()).then(data=>{L.geoJSON(data,{pointToLayer:function(f,latlng){return L.circleMarker(latlng,{radius:6,fillColor:'red',color:'#800',weight:1,opacity:1,fillOpacity:0.6})},onEachFeature:function(f,layer){layer.bindPopup('<b>IDP site</b><br/>'+ (f.properties.site_name||'') + '<br/>Pop: '+ (f.properties.population||'') )}}).addTo(map)})
+</script>
+</body>
+</html>

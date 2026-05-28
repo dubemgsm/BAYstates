@@ -1,0 +1,70 @@
+MATCH: CSV 'bade' -> GADM 'bade' (ratio=1.00) count=80
+MATCH: CSV 'bursari' -> GADM 'borsari' (ratio=0.86) count=80
+MATCH: CSV 'damaturu' -> GADM 'damaturu' (ratio=1.00) count=74
+MATCH: CSV 'fika' -> GADM 'fika' (ratio=1.00) count=139
+MATCH: CSV 'fune' -> GADM 'fune' (ratio=1.00) count=137
+MATCH: CSV 'geidam' -> GADM 'geidam' (ratio=1.00) count=56
+MATCH: CSV 'gujba' -> GADM 'gujba' (ratio=1.00) count=80
+MATCH: CSV 'gulani' -> GADM 'gulani' (ratio=1.00) count=68
+MATCH: CSV 'jakusko' -> GADM 'jakusko' (ratio=1.00) count=94
+MATCH: CSV 'karasuwa' -> GADM 'karasuwa' (ratio=1.00) count=53
+MATCH: CSV 'machina' -> GADM 'machina' (ratio=1.00) count=35
+MATCH: CSV 'nangere' -> GADM 'nangere' (ratio=1.00) count=93
+MATCH: CSV 'nguru' -> GADM 'nguru' (ratio=1.00) count=95
+MATCH: CSV 'potiskum' -> GADM 'potiskum' (ratio=1.00) count=118
+MATCH: CSV 'tarmua' -> GADM 'tarmuwa' (ratio=0.92) count=52
+MATCH: CSV 'yunusari' -> GADM 'yunusari' (ratio=1.00) count=55
+MATCH: CSV 'yusufari' -> GADM 'yusufari' (ratio=1.00) count=72
+MATCH: CSV 'demsa' -> GADM 'demsa' (ratio=1.00) count=231
+MATCH: CSV 'fufore' -> GADM 'fufore' (ratio=1.00) count=249
+MATCH: CSV 'ganye' -> GADM 'ganye' (ratio=1.00) count=278
+MATCH: CSV 'girei' -> GADM 'girie' (ratio=0.80) count=203
+MATCH: CSV 'gombi' -> GADM 'gombi' (ratio=1.00) count=192
+MATCH: CSV 'guyuk' -> GADM 'guyuk' (ratio=1.00) count=174
+MATCH: CSV 'hong' -> GADM 'hong' (ratio=1.00) count=263
+MATCH: CSV 'jada' -> GADM 'jada' (ratio=1.00) count=231
+MATCH: CSV 'lamurde' -> GADM 'lamurde' (ratio=1.00) count=146
+MATCH: CSV 'madagali' -> GADM 'madagali' (ratio=1.00) count=173
+MATCH: CSV 'maiha' -> GADM 'maiha' (ratio=1.00) count=127
+MATCH: CSV 'mayo-belwa' -> GADM 'mayo-belwa' (ratio=1.00) count=261
+MATCH: CSV 'michika' -> GADM 'michika' (ratio=1.00) count=238
+MATCH: CSV 'mubi north' -> GADM 'mubi north' (ratio=1.00) count=163
+MATCH: CSV 'mubi south' -> GADM 'mubi south' (ratio=1.00) count=139
+MATCH: CSV 'numan' -> GADM 'numan' (ratio=1.00) count=151
+MATCH: CSV 'shelleng' -> GADM 'shelleng' (ratio=1.00) count=107
+MATCH: CSV 'song' -> GADM 'song' (ratio=1.00) count=240
+MATCH: CSV 'toungo' -> GADM 'teungo' (ratio=0.83) count=86
+MATCH: CSV 'yola north' -> GADM 'yola north' (ratio=1.00) count=161
+MATCH: CSV 'yola south' -> GADM 'yola south' (ratio=1.00) count=198
+MATCH: CSV 'abadam' -> GADM 'abadam' (ratio=1.00) count=27
+MATCH: CSV 'askira / uba' -> GADM 'askira/uba' (ratio=0.91) count=117
+MATCH: CSV 'bama' -> GADM 'bama' (ratio=1.00) count=117
+MATCH: CSV 'bayo' -> GADM 'bayo' (ratio=1.00) count=46
+MATCH: CSV 'biu' -> GADM 'biu' (ratio=1.00) count=109
+MATCH: CSV 'chibok' -> GADM 'chibok' (ratio=1.00) count=74
+MATCH: CSV 'damboa' -> GADM 'damboa' (ratio=1.00) count=131
+MATCH: CSV 'dikwa' -> GADM 'dikwa' (ratio=1.00) count=45
+MATCH: CSV 'gubio' -> GADM 'gubio' (ratio=1.00) count=24
+MATCH: CSV 'guzamala' -> GADM 'guzamala' (ratio=1.00) count=28
+MATCH: CSV 'gwoza' -> GADM 'gwoza' (ratio=1.00) count=125
+MATCH: CSV 'hawul' -> GADM 'hawul' (ratio=1.00) count=142
+MATCH: CSV 'jere' -> GADM 'jere' (ratio=1.00) count=103
+MATCH: CSV 'kaga' -> GADM 'kaga' (ratio=1.00) count=53
+MATCH: CSV 'kala / balge' -> GADM 'kala/balge' (ratio=0.91) count=41
+MATCH: CSV 'konduga' -> GADM 'konduga' (ratio=1.00) count=92
+MATCH: CSV 'kukawa' -> GADM 'kukawa' (ratio=1.00) count=42
+MATCH: CSV 'kwaya kusar' -> GADM 'kwaya kusar' (ratio=1.00) count=56
+MATCH: CSV 'mafa' -> GADM 'mafa' (ratio=1.00) count=50
+MATCH: CSV 'magumeri' -> GADM 'magumeri' (ratio=1.00) count=26
+MATCH: CSV 'maiduguri' -> GADM 'maiduguri' (ratio=1.00) count=123
+MATCH: CSV 'marte' -> GADM 'marte' (ratio=1.00) count=47
+MATCH: CSV 'mobbar' -> GADM 'mobbar' (ratio=1.00) count=27
+MATCH: CSV 'monguno' -> GADM 'monguno' (ratio=1.00) count=60
+MATCH: CSV 'ngala' -> GADM 'ngala' (ratio=1.00) count=39
+MATCH: CSV 'nganzai' -> GADM 'nganzai' (ratio=1.00) count=30
+MATCH: CSV 'shani' -> GADM 'shani' (ratio=1.00) count=63
+
+Unmatched CSV LGAs (count=0):
+
+GADM LGAs not matched count=1:
+Lake Chad

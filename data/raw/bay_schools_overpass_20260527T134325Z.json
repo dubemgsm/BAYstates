@@ -1,0 +1,1646 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-27T13:42:01Z",
+    "timestamp_areas_base": "2026-05-27T01:44:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 501287824,
+  "lat": 10.3273135,
+  "lon": 13.1701230,
+  "timestamp": "2010-03-23T15:23:48Z",
+  "version": 2,
+  "changeset": 4213014,
+  "user": "errt",
+  "uid": 115102,
+  "tags": {
+    "GNS:dsg_code": "SCH",
+    "GNS:dsg_string": "school",
+    "GNS:id": "10182106;10183029;10183967",
+    "amenity": "school",
+    "fixme": "replace with more detailed type, if available",
+    "is_in:country": "Nigeria",
+    "name": "Kulp Bible School",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 501525384,
+  "lat": 9.1000000,
+  "lon": 12.5333330,
+  "timestamp": "2023-04-18T10:06:52Z",
+  "version": 2,
+  "changeset": 135051485,
+  "user": "U12ee1007",
+  "uid": 18841083,
+  "tags": {
+    "GNS:dsg_code": "PPL",
+    "GNS:dsg_string": "populated place",
+    "GNS:id": "-2017946",
+    "addr:city": "Kaduna",
+    "amenity": "school",
+    "fixme": "no population estimate available, defaulted to village",
+    "is_in:country": "Nigeria",
+    "name": "Model Primary School Tudunsaibu",
+    "operator": "SUBEB",
+    "operator:type": "government",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3855668814,
+  "lat": 10.1675759,
+  "lon": 13.2262499,
+  "timestamp": "2015-11-24T01:29:40Z",
+  "version": 1,
+  "changeset": 35542432,
+  "user": "ali68",
+  "uid": 3262697,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 3856152616,
+  "lat": 10.1728570,
+  "lon": 13.1873958,
+  "timestamp": "2015-11-24T10:21:47Z",
+  "version": 1,
+  "changeset": 35547262,
+  "user": "ali68",
+  "uid": 3262697,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 5604720211,
+  "lat": 11.8157927,
+  "lon": 13.1402776,
+  "timestamp": "2018-05-08T15:00:32Z",
+  "version": 1,
+  "changeset": 58791430,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "School Women Primary-Secondary"
+  }
+},
+{
+  "type": "node",
+  "id": 5604720219,
+  "lat": 11.8115512,
+  "lon": 13.1421148,
+  "timestamp": "2018-05-08T15:00:32Z",
+  "version": 1,
+  "changeset": 58791430,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "Mara Imul Iman - Islamic School"
+  }
+},
+{
+  "type": "node",
+  "id": 5604725421,
+  "lat": 11.8061584,
+  "lon": 13.1521293,
+  "timestamp": "2018-05-08T15:00:32Z",
+  "version": 1,
+  "changeset": 58791430,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "Mara Imul Iman - Islamic School"
+  }
+},
+{
+  "type": "node",
+  "id": 5604821208,
+  "lat": 11.8300548,
+  "lon": 13.1532222,
+  "timestamp": "2018-05-08T15:58:49Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 5604821219,
+  "lat": 11.8412804,
+  "lon": 13.1555649,
+  "timestamp": "2018-05-08T15:58:49Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "Mala Kachallah Model School"
+  }
+},
+{
+  "type": "node",
+  "id": 5604833626,
+  "lat": 11.8404725,
+  "lon": 13.1636650,
+  "timestamp": "2018-05-08T15:58:49Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 5604833633,
+  "lat": 11.8265768,
+  "lon": 13.1718387,
+  "timestamp": "2018-05-08T15:58:49Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 5606844914,
+  "lat": 11.2194965,
+  "lon": 13.7826512,
+  "timestamp": "2018-05-09T10:31:03Z",
+  "version": 1,
+  "changeset": 58815462,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "Central Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 5606844915,
+  "lat": 11.2184686,
+  "lon": 13.7835172,
+  "timestamp": "2018-05-09T10:31:03Z",
+  "version": 1,
+  "changeset": 58815462,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "tags": {
+    "amenity": "school",
+    "name": "Universal basic dducation junior"
+  }
+},
+{
+  "type": "node",
+  "id": 5906529685,
+  "lat": 11.2446014,
+  "lon": 12.0137503,
+  "timestamp": "2018-09-14T14:59:57Z",
+  "version": 1,
+  "changeset": 62585748,
+  "user": "Hembe James",
+  "uid": 4896231,
+  "tags": {
+    "amenity": "school",
+    "name": "NASFTS Buni Yadi"
+  }
+},
+{
+  "type": "node",
+  "id": 5917897696,
+  "lat": 11.8043090,
+  "lon": 13.1392719,
+  "timestamp": "2018-09-20T08:45:09Z",
+  "version": 1,
+  "changeset": 62755201,
+  "user": "kerme49_eHA",
+  "uid": 8838144,
+  "tags": {
+    "addr:city": "Maisandari",
+    "addr:street": "Damboa Road",
+    "amenity": "school",
+    "email": "aliyukermemahmud49@gmail.com",
+    "name": "Mafoni liberty Primary School",
+    "operator": "State Government",
+    "religion": "bahai"
+  }
+},
+{
+  "type": "node",
+  "id": 5917934404,
+  "lat": 11.8055693,
+  "lon": 13.1396285,
+  "timestamp": "2018-09-20T09:00:35Z",
+  "version": 1,
+  "changeset": 62755638,
+  "user": "kerme49_eHA",
+  "uid": 8838144,
+  "tags": {
+    "addr:city": "Maisandari",
+    "addr:street": "Old GRA Maiduguri",
+    "amenity": "school",
+    "name": "Maiduguri International Scholl",
+    "operator": "Privately Operate"
+  }
+},
+{
+  "type": "node",
+  "id": 5917938410,
+  "lat": 11.8055678,
+  "lon": 13.1356782,
+  "timestamp": "2024-09-20T16:29:04Z",
+  "version": 2,
+  "changeset": 156876567,
+  "user": "kamkuhles",
+  "uid": 21978341,
+  "tags": {
+    "addr:city": "Maisandari",
+    "addr:street": "Damboa Road",
+    "amenity": "school",
+    "name": "Mafoni Liberty Junior Secondary School",
+    "operator": "State Government"
+  }
+},
+{
+  "type": "node",
+  "id": 7817546689,
+  "lat": 11.8469076,
+  "lon": 13.1489235,
+  "timestamp": "2020-08-16T16:20:19Z",
+  "version": 1,
+  "changeset": 89474808,
+  "user": "kazeem",
+  "uid": 1812838,
+  "tags": {
+    "addr:full": "Mafoni, Hausari, Maiduguri",
+    "amenity": "school",
+    "name": "Mohammed Goni College of Legal and Islamic Studies",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 7817546690,
+  "lat": 11.8456843,
+  "lon": 13.1503022,
+  "timestamp": "2020-08-16T16:20:19Z",
+  "version": 1,
+  "changeset": 89474808,
+  "user": "kazeem",
+  "uid": 1812838,
+  "tags": {
+    "addr:full": "Mafoni, Hausari, Maiduguri",
+    "amenity": "school",
+    "name": "Mafoni Day Secondary School",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 7817546691,
+  "lat": 11.8448600,
+  "lon": 13.1507581,
+  "timestamp": "2020-08-16T16:20:19Z",
+  "version": 1,
+  "changeset": 89474808,
+  "user": "kazeem",
+  "uid": 1812838,
+  "tags": {
+    "addr:full": "Mafoni, Hausari, Maiduguri",
+    "amenity": "school",
+    "name": "Mafoni Primary School",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 9042606919,
+  "lat": 11.8280958,
+  "lon": 13.1087693,
+  "timestamp": "2021-08-28T10:06:15Z",
+  "version": 1,
+  "changeset": 110373875,
+  "user": "Hassana Gulani",
+  "uid": 13920745,
+  "tags": {
+    "addr:city": "Maiduguri",
+    "addr:street": "Jallaba Street",
+    "amenity": "school",
+    "name": "Abdullahi IBN Masud islamic School",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 9889237456,
+  "lat": 12.9491438,
+  "lon": 9.9744886,
+  "timestamp": "2022-07-15T08:47:41Z",
+  "version": 1,
+  "changeset": 123641651,
+  "user": "NESP_II_businesses_and_facilities_Import",
+  "uid": 15064243,
+  "tags": {
+    "amenity": "school",
+    "source": "nigeriase4all.gov.ng",
+    "source:date": "2022"
+  }
+},
+{
+  "type": "node",
+  "id": 9889268324,
+  "lat": 12.9687307,
+  "lon": 10.0178390,
+  "timestamp": "2022-07-15T08:54:19Z",
+  "version": 1,
+  "changeset": 123641973,
+  "user": "NESP_II_businesses_and_facilities_Import",
+  "uid": 15064243,
+  "tags": {
+    "amenity": "school",
+    "religion": "islamic",
+    "source": "nigeriase4all.gov.ng",
+    "source:date": "2022"
+  }
+},
+{
+  "type": "node",
+  "id": 10302584686,
+  "lat": 9.2067581,
+  "lon": 12.4864514,
+  "timestamp": "2023-01-03T15:53:01Z",
+  "version": 1,
+  "changeset": 130832551,
+  "user": "ALu68",
+  "uid": 71862,
+  "tags": {
+    "amenity": "school",
+    "name": "Hammawa Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 10302651984,
+  "lat": 9.2077721,
+  "lon": 12.4876115,
+  "timestamp": "2023-01-03T15:55:02Z",
+  "version": 1,
+  "changeset": 130832624,
+  "user": "ALu68",
+  "uid": 71862,
+  "tags": {
+    "amenity": "school",
+    "name": "Adamawa Agricultural Development Program"
+  }
+},
+{
+  "type": "node",
+  "id": 10302653113,
+  "lat": 9.2066747,
+  "lon": 12.4877952,
+  "timestamp": "2023-01-03T15:51:25Z",
+  "version": 1,
+  "changeset": 130832500,
+  "user": "ALu68",
+  "uid": 71862,
+  "tags": {
+    "amenity": "school",
+    "name": "School for Arqabic and Islamic Studies"
+  }
+},
+{
+  "type": "node",
+  "id": 11753035914,
+  "lat": 11.8153323,
+  "lon": 13.1521735,
+  "timestamp": "2024-03-22T14:09:26Z",
+  "version": 1,
+  "changeset": 149015499,
+  "user": "Anasibn",
+  "uid": 21210581,
+  "tags": {
+    "amenity": "school",
+    "name": "Namu Model Model Secondary School"
+  }
+},
+{
+  "type": "node",
+  "id": 13207021637,
+  "lat": 10.4790700,
+  "lon": 12.1212000,
+  "timestamp": "2025-10-10T15:19:46Z",
+  "version": 1,
+  "changeset": 173100342,
+  "user": "bluestarfish",
+  "uid": 2278272,
+  "tags": {
+    "amenity": "school",
+    "name": "Durkwa Primary and Junior Secondary school"
+  }
+},
+{
+  "type": "node",
+  "id": 13476535039,
+  "lat": 12.9407991,
+  "lon": 13.6756669,
+  "timestamp": "2026-01-26T10:38:57Z",
+  "version": 2,
+  "changeset": 177714432,
+  "user": "Novake",
+  "uid": 13530182,
+  "tags": {
+    "addr:city": "Cross Kauwa",
+    "addr:postcode": "612102",
+    "addr:street": "Monguno - Kauwa Road",
+    "amenity": "school",
+    "education": "school",
+    "name": "Cross Kauwa Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 13806087707,
+  "lat": 11.8231754,
+  "lon": 13.1537876,
+  "timestamp": "2026-05-07T12:37:20Z",
+  "version": 1,
+  "changeset": 182337112,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "Abande Memorial School"
+  }
+},
+{
+  "type": "node",
+  "id": 13806087708,
+  "lat": 11.8229629,
+  "lon": 13.1513763,
+  "timestamp": "2026-05-07T12:37:20Z",
+  "version": 1,
+  "changeset": 182337112,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "Namu Model School"
+  }
+},
+{
+  "type": "way",
+  "id": 264962021,
+  "timestamp": "2026-04-03T19:34:38Z",
+  "version": 11,
+  "changeset": 180828168,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8172773,
+    "lon": 13.1848633
+  },
+  "nodes": [
+    2706105865,
+    2706105869,
+    2706105873,
+    2706105876,
+    6490238656,
+    6490238655,
+    4697327664,
+    2706105878,
+    4683281320,
+    4683281323,
+    4683269305,
+    4683268771,
+    4683268770,
+    4683268685,
+    4683267498,
+    4683267497,
+    2706105881,
+    4701143336,
+    2706105865
+  ],
+  "tags": {
+    "addr:city": "Mairi",
+    "addr:street": "Bama Road",
+    "amenity": "school",
+    "landuse": "education",
+    "name": "Federal Government College"
+  }
+},
+{
+  "type": "way",
+  "id": 322402599,
+  "timestamp": "2015-07-19T08:46:40Z",
+  "version": 4,
+  "changeset": 32728797,
+  "user": "michael63",
+  "uid": 462088,
+  "center": {
+    "lat": 13.1164158,
+    "lon": 13.8599648
+  },
+  "nodes": [
+    3291713102,
+    3291713103,
+    3657431387,
+    3291713106,
+    3385443504,
+    3291713102
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 322574215,
+  "timestamp": "2017-06-16T12:21:30Z",
+  "version": 3,
+  "changeset": 49590066,
+  "user": "Hjart",
+  "uid": 207581,
+  "center": {
+    "lat": 12.8596848,
+    "lon": 13.8469419
+  },
+  "nodes": [
+    3293467706,
+    3293467707,
+    3293467708,
+    3293467709,
+    3293467706
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 322574662,
+  "timestamp": "2020-08-16T08:11:25Z",
+  "version": 2,
+  "changeset": 89465017,
+  "user": "Nanret Jack",
+  "uid": 11642321,
+  "center": {
+    "lat": 12.7168930,
+    "lon": 13.6901008
+  },
+  "nodes": [
+    3293471328,
+    7816809423,
+    7816809426,
+    7816809420,
+    7816809421,
+    3293471329,
+    7816809417,
+    3293471330,
+    7816809428,
+    3293471331,
+    3293471328
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 324265011,
+  "timestamp": "2015-01-25T15:52:39Z",
+  "version": 1,
+  "changeset": 28398886,
+  "user": "Vincent Turmine",
+  "uid": 2286814,
+  "center": {
+    "lat": 13.2959781,
+    "lon": 11.5915855
+  },
+  "nodes": [
+    3309927541,
+    3309927542,
+    3309927543,
+    3309927544,
+    3309927541
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 327684766,
+  "timestamp": "2015-02-11T23:11:16Z",
+  "version": 1,
+  "changeset": 28785749,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 12.4822292,
+    "lon": 14.1788646
+  },
+  "nodes": [
+    3344893620,
+    3344893621,
+    3344893622,
+    3344893623,
+    3344893620
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 327697507,
+  "timestamp": "2015-02-12T02:16:03Z",
+  "version": 1,
+  "changeset": 28787160,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 12.4923466,
+    "lon": 14.1858162
+  },
+  "nodes": [
+    3345045026,
+    3345045027,
+    3345045028,
+    3345045029,
+    3345045030,
+    3345045026
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 327708825,
+  "timestamp": "2015-02-12T03:54:04Z",
+  "version": 1,
+  "changeset": 28787709,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 12.4245513,
+    "lon": 13.9360980
+  },
+  "nodes": [
+    3345136793,
+    3345136794,
+    3345136795,
+    3345136796,
+    3345136797,
+    3345136798,
+    3345136793
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 328227815,
+  "timestamp": "2021-04-04T12:02:47Z",
+  "version": 3,
+  "changeset": 102267913,
+  "user": "Yamílo",
+  "uid": 11332999,
+  "center": {
+    "lat": 12.3785662,
+    "lon": 14.2054515
+  },
+  "nodes": [
+    3348396197,
+    3348395771,
+    3348395668,
+    3348395754,
+    3348395960,
+    3348395968,
+    3348396143,
+    3348396197
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "Njemema Primary School",
+    "name:fr": "École Primaire de Njemema"
+  }
+},
+{
+  "type": "way",
+  "id": 330371346,
+  "timestamp": "2015-02-26T15:42:58Z",
+  "version": 1,
+  "changeset": 29116242,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 13.6193540,
+    "lon": 13.3433994
+  },
+  "nodes": [
+    3373342013,
+    3373342014,
+    3373342015,
+    3373342016,
+    3373342013
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 331133844,
+  "timestamp": "2015-03-03T21:43:31Z",
+  "version": 1,
+  "changeset": 29232525,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 10.5997943,
+    "lon": 13.2832987
+  },
+  "nodes": [
+    3381933806,
+    3381933807,
+    3381933808,
+    3381933809,
+    3381933806
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 331424746,
+  "timestamp": "2015-03-05T20:07:57Z",
+  "version": 1,
+  "changeset": 29275309,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 12.7631754,
+    "lon": 14.1473428
+  },
+  "nodes": [
+    3384974358,
+    3384974359,
+    3384974360,
+    3384974361,
+    3384974358
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 331767446,
+  "timestamp": "2015-03-08T02:50:41Z",
+  "version": 1,
+  "changeset": 29321094,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 11.5251345,
+    "lon": 13.9063796
+  },
+  "nodes": [
+    3388686420,
+    3388686421,
+    3388686422,
+    3388686423,
+    3388686420
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 335148659,
+  "timestamp": "2015-03-28T00:27:47Z",
+  "version": 1,
+  "changeset": 29796320,
+  "user": "smaprs",
+  "uid": 1852029,
+  "center": {
+    "lat": 12.0728272,
+    "lon": 14.1169431
+  },
+  "nodes": [
+    3422597718,
+    3422597720,
+    3422597713,
+    3422597711,
+    3422597718
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 358572697,
+  "timestamp": "2018-10-19T13:52:34Z",
+  "version": 2,
+  "changeset": 63679521,
+  "user": "Nicholas Mannella",
+  "uid": 8577774,
+  "center": {
+    "lat": 12.4330631,
+    "lon": 13.6913772
+  },
+  "nodes": [
+    3634789121,
+    3634789123,
+    5998259283,
+    5998259284,
+    3634789119,
+    3634789118,
+    3634789121
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 381163208,
+  "timestamp": "2015-11-19T01:46:54Z",
+  "version": 1,
+  "changeset": 35425872,
+  "user": "Daniel Specht",
+  "uid": 2393795,
+  "center": {
+    "lat": 10.6206635,
+    "lon": 12.1693624
+  },
+  "nodes": [
+    3844036859,
+    3844036858,
+    3844036860,
+    3844036862,
+    3844036863,
+    3844036861,
+    3844036859
+  ],
+  "tags": {
+    "amenity": "school",
+    "fixme": "verify"
+  }
+},
+{
+  "type": "way",
+  "id": 383365216,
+  "timestamp": "2015-11-29T00:03:45Z",
+  "version": 1,
+  "changeset": 35638483,
+  "user": "ali68",
+  "uid": 3262697,
+  "center": {
+    "lat": 10.2101481,
+    "lon": 13.2862834
+  },
+  "nodes": [
+    3866169487,
+    3866169488,
+    3866169489,
+    3866169490,
+    3866169487
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 383368160,
+  "timestamp": "2015-11-29T00:22:08Z",
+  "version": 1,
+  "changeset": 35638660,
+  "user": "ali68",
+  "uid": 3262697,
+  "center": {
+    "lat": 10.1924719,
+    "lon": 13.3228459
+  },
+  "nodes": [
+    3866190842,
+    3866190843,
+    3866190844,
+    3866190845,
+    3866190846,
+    3866190842
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 383457015,
+  "timestamp": "2015-11-29T15:18:58Z",
+  "version": 1,
+  "changeset": 35648075,
+  "user": "ali68",
+  "uid": 3262697,
+  "center": {
+    "lat": 10.1959470,
+    "lon": 13.3078344
+  },
+  "nodes": [
+    3867300517,
+    3867300518,
+    3867300519,
+    3867300520,
+    3867300521,
+    3867300522,
+    3867300523,
+    3867300517
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 388983410,
+  "timestamp": "2016-01-01T07:17:37Z",
+  "version": 1,
+  "changeset": 36293603,
+  "user": "JohnnyMorbo",
+  "uid": 840522,
+  "center": {
+    "lat": 12.3416044,
+    "lon": 14.1853690
+  },
+  "nodes": [
+    3360681726,
+    3921524642,
+    3921524643,
+    3921524649,
+    3921524648,
+    3360681725,
+    3921525401,
+    3921525405,
+    3921525404,
+    3921525402,
+    3921525403,
+    3921525400,
+    3360681724,
+    3360681727,
+    3360681726
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 479576534,
+  "timestamp": "2017-03-09T19:18:23Z",
+  "version": 1,
+  "changeset": 46719290,
+  "user": "MR ANDREA ANGIOLETTI",
+  "uid": 5457268,
+  "center": {
+    "lat": 11.8654602,
+    "lon": 13.2399172
+  },
+  "nodes": [
+    4726521533,
+    4726521534,
+    4726521535,
+    4726521536,
+    4726521533
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Muna Koreri"
+  }
+},
+{
+  "type": "way",
+  "id": 510581798,
+  "timestamp": "2017-07-26T22:54:31Z",
+  "version": 1,
+  "changeset": 50603227,
+  "user": "Meryre",
+  "uid": 5951548,
+  "center": {
+    "lat": 11.7294568,
+    "lon": 11.0956939
+  },
+  "nodes": [
+    4995741428,
+    4995741429,
+    4995741430,
+    4995741431,
+    4995741434,
+    4995741435,
+    4995741432,
+    4995741433,
+    4995741428
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 586657402,
+  "timestamp": "2018-05-08T15:58:50Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "center": {
+    "lat": 11.8353132,
+    "lon": 13.1196402
+  },
+  "nodes": [
+    5604821145,
+    5604821146,
+    5604821147,
+    5604821148,
+    5604821149,
+    5604821150,
+    5604821151,
+    5604821152,
+    5604821153,
+    5604821154,
+    5604821155,
+    5604821156,
+    5604821157,
+    5604821145
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Yerma - Government Girls Secondary School (GGSS)"
+  }
+},
+{
+  "type": "way",
+  "id": 586657406,
+  "timestamp": "2018-05-08T15:58:50Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "center": {
+    "lat": 11.8353417,
+    "lon": 13.1385768
+  },
+  "nodes": [
+    5604821187,
+    5604821188,
+    5604821189,
+    5604821190,
+    5604821191,
+    5604821187
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Universal basic education"
+  }
+},
+{
+  "type": "way",
+  "id": 586657407,
+  "timestamp": "2024-09-20T14:58:00Z",
+  "version": 3,
+  "changeset": 156872198,
+  "user": "Frans S",
+  "uid": 1962399,
+  "center": {
+    "lat": 11.8320412,
+    "lon": 13.1204719
+  },
+  "nodes": [
+    5604821192,
+    11589668996,
+    5604821193,
+    5604821194,
+    12188447609,
+    5604821195,
+    5604821196,
+    5604821197,
+    5604821198,
+    5604821199,
+    5604821192
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 586657408,
+  "timestamp": "2024-09-15T00:22:40Z",
+  "version": 2,
+  "changeset": 156630875,
+  "user": "mawutor",
+  "uid": 2198791,
+  "center": {
+    "lat": 11.8298530,
+    "lon": 13.1530352
+  },
+  "nodes": [
+    5604821202,
+    12177605306,
+    5604821203,
+    5604821204,
+    5604821205,
+    5604821206,
+    5604821207,
+    5604821202
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 586657409,
+  "timestamp": "2024-09-13T16:53:30Z",
+  "version": 2,
+  "changeset": 156581454,
+  "user": "RAytoun",
+  "uid": 1414812,
+  "center": {
+    "lat": 11.8323009,
+    "lon": 13.1564042
+  },
+  "nodes": [
+    5604821209,
+    12175212859,
+    5604821210,
+    5604821211,
+    12175212858,
+    5604821212,
+    5604821209
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 586657411,
+  "timestamp": "2024-09-29T13:47:12Z",
+  "version": 6,
+  "changeset": 157254446,
+  "user": "Arktorus",
+  "uid": 21607915,
+  "center": {
+    "lat": 11.8277949,
+    "lon": 13.1667254
+  },
+  "nodes": [
+    5604821214,
+    12208942263,
+    5604821215,
+    12208964819,
+    12208964818,
+    12208942249,
+    12208942260,
+    12208942261,
+    5604821216,
+    5604821217,
+    5604821214
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 586657413,
+  "timestamp": "2018-05-08T15:58:51Z",
+  "version": 1,
+  "changeset": 58792826,
+  "user": "carlitos gomez",
+  "uid": 520055,
+  "center": {
+    "lat": 11.8267048,
+    "lon": 13.1715194
+  },
+  "nodes": [
+    5604833627,
+    5604833628,
+    5604833629,
+    5604833630,
+    5604833631,
+    5604833632,
+    5604833627
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Gwange III Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 670632824,
+  "timestamp": "2023-01-02T03:03:00Z",
+  "version": 10,
+  "changeset": 130770304,
+  "user": "Sarah_H",
+  "uid": 17996604,
+  "center": {
+    "lat": 9.2460298,
+    "lon": 12.4641680
+  },
+  "nodes": [
+    6280071556,
+    6280071541,
+    6280071558,
+    6280071557,
+    6280071540,
+    6280071559,
+    6280071560,
+    6280071561,
+    6280071562,
+    6280071563,
+    6280071564,
+    6280071565,
+    6280071566,
+    6280071567,
+    6280071568,
+    10147755251,
+    10147755250,
+    6280071569,
+    6280071570,
+    10182256532,
+    10182256535,
+    10182256528,
+    6280071571,
+    10182256531,
+    10182207505,
+    10182207508,
+    10182207488,
+    10223049314,
+    10223049315,
+    6280071572,
+    6280071573,
+    10188633311,
+    6280071542,
+    10188617095,
+    6280071543,
+    6280071544,
+    6280071545,
+    6280071546,
+    6280071547,
+    6280071548,
+    6280071549,
+    6280071550,
+    10096246070,
+    10096246071,
+    6280071551,
+    6280071552,
+    6280071553,
+    5102215548,
+    6280071554,
+    6280071555,
+    6280071574,
+    6280071575,
+    6280071576,
+    6280071577,
+    6280071578,
+    6280071579,
+    6280071580,
+    6280071581,
+    6280071582,
+    6280071583,
+    6280071584,
+    6280071585,
+    6280071556
+  ],
+  "tags": {
+    "addr:city": "Yola",
+    "amenity": "school",
+    "name": "Federal College of Education",
+    "short_name": "FCE",
+    "website": "https://www.fceyola.edu.ng/"
+  }
+},
+{
+  "type": "way",
+  "id": 693717883,
+  "timestamp": "2022-07-13T22:57:24Z",
+  "version": 2,
+  "changeset": 123583652,
+  "user": "woodybz",
+  "uid": 123811,
+  "center": {
+    "lat": 11.8243817,
+    "lon": 13.1080574
+  },
+  "nodes": [
+    6513003909,
+    6513003906,
+    6513003907,
+    6513003908,
+    6513003909
+  ],
+  "tags": {
+    "amenity": "school",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1078336457,
+  "timestamp": "2024-09-17T21:51:33Z",
+  "version": 2,
+  "changeset": 156748574,
+  "user": "HARMZYGEE",
+  "uid": 20960573,
+  "center": {
+    "lat": 11.8240814,
+    "lon": 13.1079000
+  },
+  "nodes": [
+    9886093190,
+    9886093191,
+    12182952557,
+    9886093193,
+    9886093194,
+    9886093190
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1508852390,
+  "timestamp": "2026-05-04T10:52:30Z",
+  "version": 1,
+  "changeset": 182198802,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8114084,
+    "lon": 13.1820680
+  },
+  "nodes": [
+    13794053911,
+    13794053912,
+    13794053913,
+    13794053914,
+    13794053915,
+    13794053916,
+    13794053917,
+    13794053918,
+    13794053911
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "landuse": "education",
+    "name": "Goverment Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 1508852391,
+  "timestamp": "2026-05-04T10:52:30Z",
+  "version": 1,
+  "changeset": 182198802,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8098311,
+    "lon": 13.1828110
+  },
+  "nodes": [
+    13794053919,
+    13794053920,
+    13794053921,
+    13794053922,
+    13794053923,
+    13794053919
+  ],
+  "tags": {
+    "addr:city": "Mairi",
+    "addr:street": "Bama-Maiduguri Road",
+    "amenity": "school",
+    "education": "school",
+    "name": "Maimisari School"
+  }
+},
+{
+  "type": "way",
+  "id": 1508852394,
+  "timestamp": "2026-05-04T10:52:30Z",
+  "version": 1,
+  "changeset": 182198802,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8154847,
+    "lon": 13.1539668
+  },
+  "nodes": [
+    13794053971,
+    13794053972,
+    13794053973,
+    13794053974,
+    13794053975,
+    13794053976,
+    13794053977,
+    13794053978,
+    13794053979,
+    13794053980,
+    13794053981,
+    13794053982,
+    13794053971
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "landuse": "education",
+    "name": "Al-Ansar Academy"
+  }
+},
+{
+  "type": "way",
+  "id": 1508852396,
+  "timestamp": "2026-05-04T10:52:30Z",
+  "version": 1,
+  "changeset": 182198802,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8153749,
+    "lon": 13.1520675
+  },
+  "nodes": [
+    13794053987,
+    4674567759,
+    13794053988,
+    13794053989,
+    13794053990,
+    13794053991,
+    13794053992,
+    13794053987
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "landuse": "education",
+    "name": "Namu Model Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 1508862153,
+  "timestamp": "2026-05-04T11:20:33Z",
+  "version": 2,
+  "changeset": 182200025,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8204112,
+    "lon": 13.1614739
+  },
+  "nodes": [
+    13794105454,
+    13794105455,
+    13794105449,
+    13794105448,
+    13794105447,
+    13794105454
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "language_school",
+    "landuse": "education",
+    "name": "Nigeria Arabic Language Village Ngala"
+  }
+},
+{
+  "type": "way",
+  "id": 1508893154,
+  "timestamp": "2026-05-04T12:19:27Z",
+  "version": 1,
+  "changeset": 182202558,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8272672,
+    "lon": 13.1152257
+  },
+  "nodes": [
+    13794307645,
+    13794307646,
+    13794307647,
+    13794307648,
+    13794307649,
+    13794307650,
+    13794307645
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "North East Children’s Trust (NECT), The Learning Centre 1"
+  }
+},
+{
+  "type": "way",
+  "id": 1508896551,
+  "timestamp": "2026-05-04T12:31:29Z",
+  "version": 1,
+  "changeset": 182203087,
+  "user": "AhidjoAT",
+  "uid": 23795975,
+  "center": {
+    "lat": 11.8077187,
+    "lon": 13.1628850
+  },
+  "nodes": [
+    13794345679,
+    13794345680,
+    13794345681,
+    13794345682,
+    13794345683,
+    13794345679
+  ],
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "landuse": "education",
+    "name": "Model Orphanage Integrated School"
+  }
+},
+{
+  "type": "relation",
+  "id": 5410944,
+  "timestamp": "2015-08-03T23:51:37Z",
+  "version": 1,
+  "changeset": 33085461,
+  "user": "edvac",
+  "uid": 121415,
+  "center": {
+    "lat": 10.8813525,
+    "lon": 12.8347524
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 363810574,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 363830357,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 363830356,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Government Girls Secondary School Chibok",
+    "operator:type": "public",
+    "short_name": "GGSS Chibok",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

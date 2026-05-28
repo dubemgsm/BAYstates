@@ -1,0 +1,1811 @@
+state,lga,year,count,deaths
+Abia state,,2016,3,15
+Abia state,,2019,2,2
+Abia state,,2020,2,2
+Abia state,,2021,2,0
+Abia state,,2022,1,1
+Abia state,,2023,4,4
+Abia state,,2024,4,15
+Abia state,Aba North lga,2022,1,0
+Abia state,Aba lga,2000,3,51
+Abia state,Arochukwu lga,2021,1,3
+Abia state,Arochukwu lga,2024,3,16
+Abia state,Isiala Ngwa North lga,2020,1,1
+Abia state,Isuikwuato lga,2024,1,1
+Abia state,Ohafia lga,2011,1,0
+Abia state,Ohafia lga,2022,2,12
+Abia state,Ohafia lga,2024,2,2
+Abia state,Umu-Nneochi lga,2023,1,0
+Abia state,Umu-Nneochi lga,2024,3,7
+Abia state,Umuahia South lga,2021,1,0
+Abia state,Umuahia South lga,2024,1,3
+Adamawa state,,2004,1,30
+Adamawa state,,2009,1,0
+Adamawa state,,2011,2,9
+Adamawa state,,2012,2,3
+Adamawa state,,2013,2,12
+Adamawa state,,2014,4,41
+Adamawa state,,2015,1,0
+Adamawa state,,2020,1,1
+Adamawa state,,2022,4,40
+Adamawa state,,2023,3,108
+Adamawa state,,2024,1,3
+Adamawa state,Demsa lga,2012,1,0
+Adamawa state,Demsa lga,2016,2,21
+Adamawa state,Demsa lga,2017,4,43
+Adamawa state,Demsa lga,2018,3,44
+Adamawa state,Demsa lga,2019,1,4
+Adamawa state,Demsa lga,2024,1,8
+Adamawa state,Ganye lga,2013,1,0
+Adamawa state,Girei lga,2016,2,38
+Adamawa state,Girei lga,2017,3,5
+Adamawa state,Girei lga,2018,6,16
+Adamawa state,Girei lga,2019,3,0
+Adamawa state,Gombi lga,2011,1,20
+Adamawa state,Gombi lga,2013,3,9
+Adamawa state,Gombi lga,2014,7,38
+Adamawa state,Gombi lga,2015,2,28
+Adamawa state,Gombi lga,2016,1,13
+Adamawa state,Gombi lga,2017,1,7
+Adamawa state,Gombi lga,2020,2,14
+Adamawa state,Gombi lga,2023,1,2
+Adamawa state,Guyuk lga,2015,1,4
+Adamawa state,Guyuk lga,2022,1,13
+Adamawa state,Hong lga,2014,9,81
+Adamawa state,Hong lga,2015,8,84
+Adamawa state,Hong lga,2017,1,2
+Adamawa state,Hong lga,2021,2,35
+Adamawa state,Hong lga,2023,1,2
+Adamawa state,Lamurde lga,2012,2,10
+Adamawa state,Lamurde lga,2018,2,19
+Adamawa state,Lamurde lga,2020,3,58
+Adamawa state,Lamurde lga,2022,2,17
+Adamawa state,Madagali lga,2012,3,8
+Adamawa state,Madagali lga,2014,21,467
+Adamawa state,Madagali lga,2015,22,191
+Adamawa state,Madagali lga,2016,7,81
+Adamawa state,Madagali lga,2017,16,58
+Adamawa state,Madagali lga,2018,10,37
+Adamawa state,Madagali lga,2019,8,57
+Adamawa state,Madagali lga,2020,2,3
+Adamawa state,Madagali lga,2021,3,9
+Adamawa state,Madagali lga,2024,2,4
+Adamawa state,Maiha lga,2012,2,7
+Adamawa state,Maiha lga,2013,1,0
+Adamawa state,Maiha lga,2014,2,85
+Adamawa state,Maiha lga,2015,1,1
+Adamawa state,Maiha lga,2020,1,1
+Adamawa state,Mayo-Belwa lga,2008,1,4
+Adamawa state,Michika lga,2013,1,4
+Adamawa state,Michika lga,2014,17,517
+Adamawa state,Michika lga,2015,3,26
+Adamawa state,Michika lga,2017,1,4
+Adamawa state,Michika lga,2018,1,1
+Adamawa state,Michika lga,2019,1,5
+Adamawa state,Michika lga,2020,3,22
+Adamawa state,Mubi North lga,2012,6,24
+Adamawa state,Mubi North lga,2013,4,23
+Adamawa state,Mubi North lga,2014,11,354
+Adamawa state,Mubi North lga,2017,1,56
+Adamawa state,Mubi North lga,2018,1,42
+Adamawa state,Numan lga,2003,1,10
+Adamawa state,Numan lga,2004,1,132
+Adamawa state,Numan lga,2017,7,94
+Adamawa state,Numan lga,2018,9,60
+Adamawa state,Song lga,2003,1,100
+Adamawa state,Song lga,2018,1,10
+Adamawa state,Yola North lga,2008,2,3
+Adamawa state,Yola North lga,2012,2,14
+Adamawa state,Yola North lga,2015,4,120
+Adamawa state,Yola South lga,2014,1,4
+Adamawa state,Yola South lga,2018,1,1
+Akwa Ibom state,,2000,1,45
+Akwa Ibom state,,2012,1,4
+Akwa Ibom state,Eastern Obolo lga,1995,1,1
+Akwa Ibom state,Eket lga,2011,1,1
+Akwa Ibom state,Eket lga,2016,1,4
+Akwa Ibom state,Esit-Eket lga,2021,1,8
+Akwa Ibom state,Essien Udim lga,2021,3,8
+Akwa Ibom state,Etim-Ekpo lga,2017,3,17
+Akwa Ibom state,Etim-Ekpo lga,2021,1,0
+Akwa Ibom state,Ibesikpo-Asutan lga,2011,1,2
+Akwa Ibom state,Ibiono Ibom lga,2011,2,4
+Akwa Ibom state,Ikono lga,2021,1,2
+Akwa Ibom state,Ikot Ekpene lga,2011,2,4
+Akwa Ibom state,Ini lga,2021,1,6
+Akwa Ibom state,Itu lga,2016,1,4
+Akwa Ibom state,Itu lga,2017,2,17
+Akwa Ibom state,Itu lga,2022,1,3
+Akwa Ibom state,Mbo lga,1992,1,0
+Akwa Ibom state,Mbo lga,1994,1,0
+Akwa Ibom state,Mbo lga,2024,1,2
+Akwa Ibom state,Nsit-Atai lga,2011,1,1
+Akwa Ibom state,Onna lga,2019,1,3
+Akwa Ibom state,Oron lga,2011,1,0
+Akwa Ibom state,Oruk Anam lga,2020,5,8
+Akwa Ibom state,Uruan lga,2011,1,3
+Akwa Ibom state,Uruan lga,2017,1,0
+Akwa Ibom state,Uyo lga,2023,1,1
+Anambra state,,2000,2,31
+Anambra state,,2001,3,47
+Anambra state,,2002,5,63
+Anambra state,,2005,3,7
+Anambra state,,2006,4,80
+Anambra state,,2007,1,1
+Anambra state,,2011,1,0
+Anambra state,,2014,1,1
+Anambra state,,2015,2,7
+Anambra state,,2016,3,27
+Anambra state,,2019,1,2
+Anambra state,,2021,2,2
+Anambra state,,2022,1,2
+Anambra state,,2023,2,1
+Anambra state,,2024,6,9
+Anambra state,Aguata lga,2021,1,2
+Anambra state,Aguata lga,2022,1,0
+Anambra state,Aguata lga,2024,2,3
+Anambra state,Anambra East lga,1999,2,420
+Anambra state,Anambra East lga,2023,1,5
+Anambra state,Anambra West lga,2019,2,6
+Anambra state,Anambra West lga,2023,1,1
+Anambra state,Anaocha lga,2018,1,1
+Anambra state,Awka North lga,2000,1,1
+Anambra state,Awka North lga,2008,1,4
+Anambra state,Awka South lga,2008,1,3
+Anambra state,Awka South lga,2017,2,2
+Anambra state,Awka South lga,2018,1,16
+Anambra state,Awka South lga,2021,2,4
+Anambra state,Awka South lga,2024,8,23
+Anambra state,Dunukofia lga,2024,1,0
+Anambra state,Ekwusigo lga,2022,1,0
+Anambra state,Idemili North lga,2019,1,2
+Anambra state,Idemili North lga,2020,1,2
+Anambra state,Idemili North lga,2021,1,0
+Anambra state,Idemili North lga,2022,1,0
+Anambra state,Idemili North lga,2023,2,8
+Anambra state,Idemili North lga,2024,1,0
+Anambra state,Idemili South lga,2021,2,5
+Anambra state,Idemili South lga,2024,1,1
+Anambra state,Ihiala lga,2001,1,10
+Anambra state,Ihiala lga,2021,4,5
+Anambra state,Ihiala lga,2022,6,12
+Anambra state,Ihiala lga,2023,4,8
+Anambra state,Ihiala lga,2024,7,11
+Anambra state,Nnewi North lga,2018,1,1
+Anambra state,Nnewi North lga,2021,1,2
+Anambra state,Nnewi North lga,2024,1,0
+Anambra state,Nnewi South lga,2018,1,1
+Anambra state,Nnewi South lga,2022,2,0
+Anambra state,Nnewi South lga,2023,2,6
+Anambra state,Nnewi South lga,2024,1,1
+Anambra state,Ogbaru lga,2022,3,35
+Anambra state,Onitsha North lga,2006,1,5
+Anambra state,Onitsha South lga,2023,1,4
+Anambra state,Orumba North lga,2022,1,0
+Anambra state,Orumba South lga,2022,1,2
+Anambra state,Orumba South lga,2024,1,2
+Anambra state,Oyi lga,2021,2,6
+Anambra state,Oyi lga,2023,3,15
+Bauchi state,,2009,1,11
+Bauchi state,,2011,2,7
+Bauchi state,,2012,2,1
+Bauchi state,,2014,1,10
+Bauchi state,Alkeri lga,2011,2,8
+Bauchi state,Alkeri lga,2023,1,1
+Bauchi state,Bauchi lga,1991,1,75
+Bauchi state,Bauchi lga,2006,2,25
+Bauchi state,Bauchi lga,2007,2,7
+Bauchi state,Bauchi lga,2009,2,53
+Bauchi state,Bauchi lga,2010,3,6
+Bauchi state,Bauchi lga,2011,3,22
+Bauchi state,Bauchi lga,2012,6,31
+Bauchi state,Bauchi lga,2013,1,0
+Bauchi state,Bauchi lga,2014,3,10
+Bauchi state,Bauchi lga,2019,1,3
+Bauchi state,Bauchi lga,2020,1,2
+Bauchi state,Bogoro lga,2011,2,0
+Bauchi state,Bogoro lga,2012,1,3
+Bauchi state,Darazo lga,2011,1,0
+Bauchi state,Darazo lga,2013,1,0
+Bauchi state,Darazo lga,2014,1,10
+Bauchi state,Gamawa lga,2011,1,1
+Bauchi state,Giade lga,2011,2,6
+Bauchi state,Itas/Gadau lga,2011,1,6
+Bauchi state,Jama'are lga,2012,1,3
+Bauchi state,Katagum lga,2011,2,12
+Bauchi state,Katagum lga,2014,3,32
+Bauchi state,Misau lga,2011,1,5
+Bauchi state,Ningi lga,2013,1,1
+Bauchi state,Tafawa Balewa lga,1991,1,75
+Bauchi state,Tafawa Balewa lga,2010,1,0
+Bauchi state,Tafawa Balewa lga,2011,3,41
+Bauchi state,Tafawa Balewa lga,2012,2,6
+Bauchi state,Tafawa Balewa lga,2014,1,0
+Bauchi state,Tafawa Balewa lga,2015,1,0
+Bauchi state,Tafawa Balewa lga,2024,1,1
+Bauchi state,Toro lga,2010,1,0
+Bauchi state,Toro lga,2014,1,0
+Bauchi state,Toro lga,2024,1,1
+Bayelsa state,,1999,1,0
+Bayelsa state,Brass lga,2002,1,2
+Bayelsa state,Ekeremor lga,1997,1,3
+Bayelsa state,Ekeremor lga,2003,1,2
+Bayelsa state,Ekeremor lga,2004,1,7
+Bayelsa state,Kolokuma-Opokuma lga,1998,1,10
+Bayelsa state,Kolokuma-Opokuma lga,1999,6,2485
+Bayelsa state,Kolokuma/Opokuma lga,2011,1,14
+Bayelsa state,Nembe lga,1999,1,3
+Bayelsa state,Nembe lga,2000,1,2
+Bayelsa state,Nembe lga,2002,2,39
+Bayelsa state,Nembe lga,2003,1,31
+Bayelsa state,Nembe lga,2016,1,2
+Bayelsa state,Nembe lga,2019,2,1
+Bayelsa state,Sagbama lga,1999,1,8
+Bayelsa state,Sagbama lga,2019,1,1
+Bayelsa state,Southern Ijaw lga,2003,1,10
+Bayelsa state,Southern Ijaw lga,2008,1,3
+Bayelsa state,Southern Ijaw lga,2012,1,1
+Bayelsa state,Southern Ijaw lga,2016,1,6
+Bayelsa state,Southern Ijaw lga,2019,1,2
+Bayelsa state,Yenagoa lga,1998,2,9
+Bayelsa state,Yenagoa lga,1999,3,4
+Bayelsa state,Yenagoa lga,2008,2,3
+Bayelsa state,Yenagoa lga,2009,2,5
+Bayelsa state,Yenagoa lga,2011,4,9
+Bayelsa state,Yenagoa lga,2012,2,2
+Bayelsa state,Yenagoa lga,2020,3,7
+Bayelsa state,Yenagoa lga,2022,6,9
+Bayelsa state,Yenagoa lga,2024,2,2
+Benue state,,2001,1,481
+Benue state,,2013,1,20
+Benue state,,2018,1,31
+Benue state,Ado lga,2021,2,35
+Benue state,Ado lga,2022,1,30
+Benue state,Ado lga,2024,1,4
+Benue state,Agatu lga,2013,11,114
+Benue state,Agatu lga,2014,3,7
+Benue state,Agatu lga,2015,4,163
+Benue state,Agatu lga,2016,11,105
+Benue state,Agatu lga,2018,2,4
+Benue state,Agatu lga,2019,2,42
+Benue state,Agatu lga,2021,4,40
+Benue state,Agatu lga,2022,1,0
+Benue state,Agatu lga,2023,2,4
+Benue state,Agatu lga,2024,11,64
+Benue state,Apa lga,2016,1,17
+Benue state,Apa lga,2024,1,15
+Benue state,Buruku lga,2016,4,30
+Benue state,Buruku lga,2017,2,8
+Benue state,Gboko lga,1998,1,32
+Benue state,Gboko lga,2018,1,7
+Benue state,Guma lga,2011,7,141
+Benue state,Guma lga,2013,11,114
+Benue state,Guma lga,2014,5,13
+Benue state,Guma lga,2015,2,12
+Benue state,Guma lga,2017,1,4
+Benue state,Guma lga,2018,26,142
+Benue state,Guma lga,2019,3,2
+Benue state,Guma lga,2020,9,18
+Benue state,Guma lga,2021,8,51
+Benue state,Guma lga,2022,16,77
+Benue state,Guma lga,2023,19,103
+Benue state,Gwer East lga,2010,1,4
+Benue state,Gwer East lga,2014,1,7
+Benue state,Gwer East lga,2017,2,8
+Benue state,Gwer East lga,2018,2,16
+Benue state,Gwer East lga,2024,1,16
+Benue state,Gwer West lga,2011,1,27
+Benue state,Gwer West lga,2012,9,50
+Benue state,Gwer West lga,2013,2,2
+Benue state,Gwer West lga,2014,1,2
+Benue state,Gwer West lga,2018,4,7
+Benue state,Gwer West lga,2019,1,4
+Benue state,Gwer West lga,2020,2,3
+Benue state,Gwer West lga,2021,8,43
+Benue state,Gwer West lga,2022,3,8
+Benue state,Gwer West lga,2023,6,25
+Benue state,Gwer West lga,2024,3,13
+Benue state,Katsina-Ala lga,2001,1,6
+Benue state,Katsina-Ala lga,2005,1,14
+Benue state,Katsina-Ala lga,2019,6,37
+Benue state,Katsina-Ala lga,2021,1,6
+Benue state,Katsina-Ala lga,2023,1,25
+Benue state,Konisha lga,2021,2,33
+Benue state,Kwande lga,2003,2,17
+Benue state,Kwande lga,2004,10,439
+Benue state,Kwande lga,2005,1,2
+Benue state,Kwande lga,2014,1,0
+Benue state,Kwande lga,2017,5,24
+Benue state,Kwande lga,2018,1,7
+Benue state,Kwande lga,2019,1,2
+Benue state,Kwande lga,2020,3,11
+Benue state,Kwande lga,2022,2,10
+Benue state,Kwande lga,2023,1,37
+Benue state,Kwande lga,2024,3,24
+Benue state,Logo lga,2011,2,6
+Benue state,Logo lga,2014,6,22
+Benue state,Logo lga,2015,4,40
+Benue state,Logo lga,2016,10,76
+Benue state,Logo lga,2017,3,18
+Benue state,Logo lga,2018,25,101
+Benue state,Logo lga,2019,3,9
+Benue state,Logo lga,2020,1,0
+Benue state,Logo lga,2022,6,23
+Benue state,Logo lga,2023,5,12
+Benue state,Logo lga,2024,9,63
+Benue state,Makurdi lga,2005,1,1
+Benue state,Makurdi lga,2008,1,1
+Benue state,Makurdi lga,2011,2,3
+Benue state,Makurdi lga,2012,1,30
+Benue state,Makurdi lga,2013,3,35
+Benue state,Makurdi lga,2014,2,5
+Benue state,Makurdi lga,2016,1,10
+Benue state,Makurdi lga,2017,1,3
+Benue state,Makurdi lga,2018,1,2
+Benue state,Makurdi lga,2020,1,4
+Benue state,Makurdi lga,2021,3,14
+Benue state,Makurdi lga,2022,2,5
+Benue state,Makurdi lga,2023,1,9
+Benue state,Makurdi lga,2024,4,7
+Benue state,Ohimini lga,2017,1,15
+Benue state,Okpokwu lga,2013,1,1
+Benue state,Okpokwu lga,2017,1,5
+Benue state,Okpokwu lga,2018,2,31
+Benue state,Okpokwu lga,2022,1,15
+Benue state,Oturkpo lga,2013,1,3
+Benue state,Oturkpo lga,2017,2,4
+Benue state,Oturkpo lga,2023,2,54
+Benue state,Oturkpo lga,2024,5,19
+Benue state,Tarka lga,2012,1,1
+Benue state,Tarka lga,2022,1,9
+Benue state,Ukum lga,2001,6,197
+Benue state,Ukum lga,2015,1,0
+Benue state,Ukum lga,2016,4,66
+Benue state,Ukum lga,2018,4,37
+Benue state,Ukum lga,2019,4,12
+Benue state,Ukum lga,2020,1,3
+Benue state,Ukum lga,2022,1,36
+Benue state,Ukum lga,2023,8,63
+Benue state,Ukum lga,2024,2,120
+Borno state,,2009,1,0
+Borno state,,2010,2,2
+Borno state,,2011,4,7
+Borno state,,2012,2,1
+Borno state,,2013,13,129
+Borno state,,2014,22,321
+Borno state,,2015,27,661
+Borno state,,2016,40,357
+Borno state,,2017,25,454
+Borno state,,2018,28,142
+Borno state,,2019,37,108
+Borno state,,2020,71,297
+Borno state,,2021,40,372
+Borno state,,2022,37,520
+Borno state,,2023,34,260
+Borno state,,2024,37,512
+Borno state,Abadam lga,2013,2,35
+Borno state,Abadam lga,2014,6,67
+Borno state,Abadam lga,2015,8,422
+Borno state,Abadam lga,2016,10,512
+Borno state,Abadam lga,2017,11,279
+Borno state,Abadam lga,2018,26,247
+Borno state,Abadam lga,2019,22,125
+Borno state,Abadam lga,2020,20,48
+Borno state,Abadam lga,2021,19,172
+Borno state,Abadam lga,2022,19,244
+Borno state,Abadam lga,2023,19,94
+Borno state,Abadam lga,2024,9,187
+Borno state,Askira/Uba lga,2012,1,0
+Borno state,Askira/Uba lga,2014,11,118
+Borno state,Askira/Uba lga,2015,21,269
+Borno state,Askira/Uba lga,2016,12,35
+Borno state,Askira/Uba lga,2017,6,19
+Borno state,Askira/Uba lga,2018,1,1
+Borno state,Askira/Uba lga,2019,4,10
+Borno state,Askira/Uba lga,2020,7,41
+Borno state,Askira/Uba lga,2021,8,68
+Borno state,Askira/Uba lga,2022,3,10
+Borno state,Askira/Uba lga,2023,5,12
+Borno state,Bama lga,2004,1,4
+Borno state,Bama lga,2012,4,3
+Borno state,Bama lga,2013,19,381
+Borno state,Bama lga,2014,18,638
+Borno state,Bama lga,2015,10,57
+Borno state,Bama lga,2016,41,379
+Borno state,Bama lga,2017,40,161
+Borno state,Bama lga,2018,26,104
+Borno state,Bama lga,2019,16,121
+Borno state,Bama lga,2020,27,109
+Borno state,Bama lga,2021,14,53
+Borno state,Bama lga,2022,36,278
+Borno state,Bama lga,2023,51,132
+Borno state,Bama lga,2024,24,165
+Borno state,Biu lga,2011,6,4
+Borno state,Biu lga,2012,5,13
+Borno state,Biu lga,2013,2,24
+Borno state,Biu lga,2014,10,112
+Borno state,Biu lga,2015,21,250
+Borno state,Biu lga,2016,5,13
+Borno state,Biu lga,2017,4,22
+Borno state,Biu lga,2019,10,28
+Borno state,Biu lga,2020,4,0
+Borno state,Biu lga,2021,5,13
+Borno state,Biu lga,2022,4,32
+Borno state,Biu lga,2023,5,15
+Borno state,Biu lga,2024,5,7
+Borno state,Chibok lga,2012,1,10
+Borno state,Chibok lga,2014,19,227
+Borno state,Chibok lga,2015,7,59
+Borno state,Chibok lga,2016,9,51
+Borno state,Chibok lga,2017,5,39
+Borno state,Chibok lga,2018,3,8
+Borno state,Chibok lga,2019,3,9
+Borno state,Chibok lga,2020,9,32
+Borno state,Chibok lga,2021,3,12
+Borno state,Chibok lga,2022,8,27
+Borno state,Chibok lga,2023,4,11
+Borno state,Chibok lga,2024,3,17
+Borno state,Damboa lga,2011,1,4
+Borno state,Damboa lga,2012,2,2
+Borno state,Damboa lga,2013,10,98
+Borno state,Damboa lga,2014,20,396
+Borno state,Damboa lga,2015,16,351
+Borno state,Damboa lga,2016,22,143
+Borno state,Damboa lga,2017,30,163
+Borno state,Damboa lga,2018,8,65
+Borno state,Damboa lga,2019,11,50
+Borno state,Damboa lga,2020,19,353
+Borno state,Damboa lga,2021,44,129
+Borno state,Damboa lga,2022,11,63
+Borno state,Damboa lga,2023,35,222
+Borno state,Damboa lga,2024,4,29
+Borno state,Dikwa lga,2012,1,5
+Borno state,Dikwa lga,2015,4,245
+Borno state,Dikwa lga,2016,13,189
+Borno state,Dikwa lga,2017,16,58
+Borno state,Dikwa lga,2018,12,14
+Borno state,Dikwa lga,2019,14,22
+Borno state,Dikwa lga,2020,17,23
+Borno state,Dikwa lga,2021,7,32
+Borno state,Dikwa lga,2022,8,137
+Borno state,Dikwa lga,2023,7,79
+Borno state,Dikwa lga,2024,8,28
+Borno state,Gubio lga,2012,2,5
+Borno state,Gubio lga,2013,1,24
+Borno state,Gubio lga,2014,1,15
+Borno state,Gubio lga,2015,2,55
+Borno state,Gubio lga,2016,1,15
+Borno state,Gubio lga,2017,2,5
+Borno state,Gubio lga,2018,2,53
+Borno state,Gubio lga,2019,11,77
+Borno state,Gubio lga,2020,8,131
+Borno state,Gubio lga,2021,4,41
+Borno state,Gubio lga,2022,4,14
+Borno state,Gubio lga,2023,3,13
+Borno state,Gubio lga,2024,5,42
+Borno state,Guzamala lga,2015,4,158
+Borno state,Guzamala lga,2016,3,43
+Borno state,Guzamala lga,2017,9,20
+Borno state,Guzamala lga,2018,10,78
+Borno state,Guzamala lga,2019,4,20
+Borno state,Guzamala lga,2021,4,27
+Borno state,Guzamala lga,2022,1,5
+Borno state,Guzamala lga,2023,3,30
+Borno state,Guzamala lga,2024,1,3
+Borno state,Gwoza lga,2004,1,4
+Borno state,Gwoza lga,2013,22,121
+Borno state,Gwoza lga,2014,46,1370
+Borno state,Gwoza lga,2015,23,452
+Borno state,Gwoza lga,2016,29,367
+Borno state,Gwoza lga,2017,37,213
+Borno state,Gwoza lga,2018,25,107
+Borno state,Gwoza lga,2019,24,102
+Borno state,Gwoza lga,2020,35,113
+Borno state,Gwoza lga,2021,16,144
+Borno state,Gwoza lga,2022,14,54
+Borno state,Gwoza lga,2023,37,282
+Borno state,Gwoza lga,2024,44,188
+Borno state,Hawul lga,2013,2,16
+Borno state,Hawul lga,2014,15,66
+Borno state,Hawul lga,2015,5,92
+Borno state,Hawul lga,2020,2,52
+Borno state,Hawul lga,2024,1,0
+Borno state,Jere lga,2012,1,5
+Borno state,Jere lga,2013,4,13
+Borno state,Jere lga,2014,5,52
+Borno state,Jere lga,2015,15,201
+Borno state,Jere lga,2016,13,131
+Borno state,Jere lga,2017,45,176
+Borno state,Jere lga,2018,14,82
+Borno state,Jere lga,2019,14,80
+Borno state,Jere lga,2020,10,93
+Borno state,Jere lga,2021,4,24
+Borno state,Jere lga,2022,2,5
+Borno state,Jere lga,2023,6,21
+Borno state,Jere lga,2024,2,2
+Borno state,Kaga lga,2011,1,0
+Borno state,Kaga lga,2013,11,304
+Borno state,Kaga lga,2014,10,141
+Borno state,Kaga lga,2015,15,150
+Borno state,Kaga lga,2016,4,15
+Borno state,Kaga lga,2017,2,23
+Borno state,Kaga lga,2018,3,4
+Borno state,Kaga lga,2019,6,42
+Borno state,Kaga lga,2020,9,39
+Borno state,Kaga lga,2021,10,100
+Borno state,Kaga lga,2022,5,17
+Borno state,Kaga lga,2023,7,16
+Borno state,Kaga lga,2024,6,4
+Borno state,Kala/Balge lga,2012,2,10
+Borno state,Kala/Balge lga,2014,2,280
+Borno state,Kala/Balge lga,2015,1,40
+Borno state,Kala/Balge lga,2016,21,139
+Borno state,Kala/Balge lga,2017,27,204
+Borno state,Kala/Balge lga,2018,3,21
+Borno state,Kala/Balge lga,2019,2,74
+Borno state,Kala/Balge lga,2020,1,5
+Borno state,Kala/Balge lga,2021,6,73
+Borno state,Kala/Balge lga,2023,2,5
+Borno state,Konduga lga,2004,1,0
+Borno state,Konduga lga,2012,2,3
+Borno state,Konduga lga,2013,16,149
+Borno state,Konduga lga,2014,31,733
+Borno state,Konduga lga,2015,17,298
+Borno state,Konduga lga,2016,7,25
+Borno state,Konduga lga,2017,27,135
+Borno state,Konduga lga,2018,17,82
+Borno state,Konduga lga,2019,14,85
+Borno state,Konduga lga,2020,37,254
+Borno state,Konduga lga,2021,15,36
+Borno state,Konduga lga,2022,15,106
+Borno state,Konduga lga,2023,20,108
+Borno state,Konduga lga,2024,9,67
+Borno state,Kukawa lga,2012,2,203
+Borno state,Kukawa lga,2013,4,245
+Borno state,Kukawa lga,2014,8,113
+Borno state,Kukawa lga,2015,13,375
+Borno state,Kukawa lga,2016,18,177
+Borno state,Kukawa lga,2017,6,56
+Borno state,Kukawa lga,2018,9,41
+Borno state,Kukawa lga,2019,16,193
+Borno state,Kukawa lga,2020,43,145
+Borno state,Kukawa lga,2021,8,159
+Borno state,Kukawa lga,2022,7,29
+Borno state,Kukawa lga,2023,16,226
+Borno state,Kukawa lga,2024,18,143
+Borno state,Kwaya Kusar lga,2017,1,2
+Borno state,Mafa lga,2011,1,2
+Borno state,Mafa lga,2012,1,0
+Borno state,Mafa lga,2013,2,13
+Borno state,Mafa lga,2014,12,182
+Borno state,Mafa lga,2015,5,85
+Borno state,Mafa lga,2016,6,17
+Borno state,Mafa lga,2017,12,122
+Borno state,Mafa lga,2018,4,1
+Borno state,Mafa lga,2019,13,18
+Borno state,Mafa lga,2020,13,24
+Borno state,Mafa lga,2021,7,60
+Borno state,Mafa lga,2022,11,74
+Borno state,Mafa lga,2023,23,149
+Borno state,Mafa lga,2024,7,31
+Borno state,Magumeri lga,2012,1,1
+Borno state,Magumeri lga,2014,1,11
+Borno state,Magumeri lga,2015,7,119
+Borno state,Magumeri lga,2017,11,121
+Borno state,Magumeri lga,2019,11,56
+Borno state,Magumeri lga,2020,17,118
+Borno state,Magumeri lga,2021,2,42
+Borno state,Magumeri lga,2022,2,4
+Borno state,Magumeri lga,2023,6,13
+Borno state,Magumeri lga,2024,2,0
+Borno state,Maiduguri lga,2003,1,1
+Borno state,Maiduguri lga,2006,1,21
+Borno state,Maiduguri lga,2009,5,293
+Borno state,Maiduguri lga,2010,18,21
+Borno state,Maiduguri lga,2011,75,132
+Borno state,Maiduguri lga,2012,118,355
+Borno state,Maiduguri lga,2013,43,252
+Borno state,Maiduguri lga,2014,13,918
+Borno state,Maiduguri lga,2015,43,1220
+Borno state,Maiduguri lga,2016,15,65
+Borno state,Maiduguri lga,2017,28,112
+Borno state,Maiduguri lga,2018,23,119
+Borno state,Maiduguri lga,2019,14,54
+Borno state,Maiduguri lga,2020,5,27
+Borno state,Maiduguri lga,2021,3,30
+Borno state,Maiduguri lga,2022,1,0
+Borno state,Maiduguri lga,2023,2,13
+Borno state,Marte lga,2012,1,0
+Borno state,Marte lga,2013,1,0
+Borno state,Marte lga,2014,13,144
+Borno state,Marte lga,2015,5,56
+Borno state,Marte lga,2016,4,33
+Borno state,Marte lga,2017,8,33
+Borno state,Marte lga,2018,1,40
+Borno state,Marte lga,2019,10,59
+Borno state,Marte lga,2020,13,25
+Borno state,Marte lga,2021,10,197
+Borno state,Marte lga,2022,13,141
+Borno state,Marte lga,2023,26,390
+Borno state,Marte lga,2024,13,201
+Borno state,Mobbar lga,2012,2,3
+Borno state,Mobbar lga,2013,1,6
+Borno state,Mobbar lga,2014,4,27
+Borno state,Mobbar lga,2015,5,327
+Borno state,Mobbar lga,2016,3,75
+Borno state,Mobbar lga,2017,3,14
+Borno state,Mobbar lga,2018,9,77
+Borno state,Mobbar lga,2019,6,35
+Borno state,Mobbar lga,2020,11,89
+Borno state,Mobbar lga,2021,8,104
+Borno state,Mobbar lga,2022,7,60
+Borno state,Mobbar lga,2023,17,90
+Borno state,Mobbar lga,2024,7,40
+Borno state,Monguno lga,2013,3,54
+Borno state,Monguno lga,2014,1,0
+Borno state,Monguno lga,2015,11,335
+Borno state,Monguno lga,2016,7,37
+Borno state,Monguno lga,2017,4,9
+Borno state,Monguno lga,2018,5,53
+Borno state,Monguno lga,2019,4,23
+Borno state,Monguno lga,2020,10,88
+Borno state,Monguno lga,2021,4,24
+Borno state,Monguno lga,2022,11,41
+Borno state,Monguno lga,2023,15,111
+Borno state,Monguno lga,2024,5,86
+Borno state,Ngala lga,2004,1,15
+Borno state,Ngala lga,2009,1,1
+Borno state,Ngala lga,2011,1,0
+Borno state,Ngala lga,2012,2,1
+Borno state,Ngala lga,2013,7,74
+Borno state,Ngala lga,2014,15,719
+Borno state,Ngala lga,2015,11,555
+Borno state,Ngala lga,2016,6,84
+Borno state,Ngala lga,2017,14,32
+Borno state,Ngala lga,2018,16,85
+Borno state,Ngala lga,2019,6,70
+Borno state,Ngala lga,2020,28,78
+Borno state,Ngala lga,2021,12,76
+Borno state,Ngala lga,2022,5,38
+Borno state,Ngala lga,2023,16,73
+Borno state,Ngala lga,2024,12,58
+Borno state,Nganzai lga,2013,2,181
+Borno state,Nganzai lga,2015,8,157
+Borno state,Nganzai lga,2016,1,3
+Borno state,Nganzai lga,2017,5,54
+Borno state,Nganzai lga,2018,4,19
+Borno state,Nganzai lga,2019,16,79
+Borno state,Nganzai lga,2020,9,69
+Borno state,Nganzai lga,2021,7,38
+Borno state,Nganzai lga,2022,2,5
+Borno state,Nganzai lga,2023,1,10
+Borno state,Nganzai lga,2024,7,19
+Borno state,Shani lga,2014,2,3
+Borno state,Shani lga,2015,1,9
+Borno state,Shani lga,2019,1,1
+Cross River state,,2000,1,45
+Cross River state,,2002,1,10
+Cross River state,,2018,2,2
+Cross River state,,2019,2,1
+Cross River state,Bakassi lga,2013,1,5
+Cross River state,Boki lga,2010,2,30
+Cross River state,Boki lga,2012,1,3
+Cross River state,Boki lga,2022,1,10
+Cross River state,Etung lga,2019,1,5
+Cross River state,Obanliku lga,2023,2,2
+Cross River state,Obubra lga,2003,1,1
+Cross River state,Obubra lga,2024,1,8
+Cross River state,Odukpani lga,2012,1,41
+Cross River state,Yakurr lga,2017,1,2
+Cross River state,Yakurr lga,2022,1,4
+Cross River state,Yala lga,2017,1,150
+Delta state,,1997,1,19
+Delta state,,1999,1,7
+Delta state,,2004,1,12
+Delta state,,2011,1,0
+Delta state,Aniocha North lga,2024,1,2
+Delta state,Aniocha South lga,2021,1,0
+Delta state,Aniocha South lga,2022,2,7
+Delta state,Aniocha South lga,2024,2,3
+Delta state,Bomadi lga,1998,1,30
+Delta state,Bomadi lga,1999,1,5
+Delta state,Burutu lga,1996,1,1
+Delta state,Burutu lga,2003,1,4
+Delta state,Ethiope East lga,2007,1,4
+Delta state,Ethiope East lga,2011,1,1
+Delta state,Ethiope East lga,2016,1,2
+Delta state,Ethiope East lga,2022,1,1
+Delta state,Ethiope East lga,2023,1,1
+Delta state,Ethiope West lga,1998,1,50
+Delta state,Ika South lga,2013,1,1
+Delta state,Ika South lga,2016,1,4
+Delta state,Isoko North lga,2020,1,1
+Delta state,Isoko North lga,2024,1,1
+Delta state,Isoko South lga,1999,1,47
+Delta state,Isoko south lga,2011,1,0
+Delta state,Ndokwa West lga,2011,1,3
+Delta state,Ndokwa West lga,2022,1,0
+Delta state,Ndokwa West lga,2024,1,2
+Delta state,Okpe lga,1997,1,41
+Delta state,Okpe lga,2005,1,1
+Delta state,Oshimili North lga,2016,1,4
+Delta state,Oshimili North lga,2022,2,2
+Delta state,Oshimili North lga,2023,1,0
+Delta state,Oshimill South lga,2008,1,1
+Delta state,Oshimill South lga,2016,2,31
+Delta state,Oshimill South lga,2019,1,3
+Delta state,Oshimill South lga,2022,1,1
+Delta state,Oshimill South lga,2023,4,3
+Delta state,Sapele lga,2003,1,15
+Delta state,Ughelli North lga,2004,1,1
+Delta state,Ughelli North lga,2009,1,13
+Delta state,Ughelli North lga,2015,1,5
+Delta state,Ughelli North lga,2019,1,1
+Delta state,Ughelli North lga,2020,5,10
+Delta state,Ughelli North lga,2022,1,3
+Delta state,Ughelli North lga,2024,2,4
+Delta state,Ughelli South lga,2003,1,10
+Delta state,Ughelli South lga,2008,1,1
+Delta state,Ughelli South lga,2011,1,0
+Delta state,Uvwie lga,2003,3,11
+Delta state,Warri North lga,1997,2,3
+Delta state,Warri North lga,1999,3,104
+Delta state,Warri North lga,2003,4,34
+Delta state,Warri South lga,1997,8,374
+Delta state,Warri South lga,1998,6,25
+Delta state,Warri South lga,1999,6,47
+Delta state,Warri South lga,2003,11,108
+Delta state,Warri South lga,2004,3,4
+Delta state,Warri South lga,2008,1,2
+Delta state,Warri South lga,2009,2,4
+Delta state,Warri South lga,2017,1,2
+Delta state,Warri South lga,2019,1,5
+Delta state,Warri South lga,2020,1,1
+Delta state,Warri South-West lga,1999,2,0
+Delta state,Warri South-West lga,2003,3,12
+Delta state,Warri South-West lga,2004,1,3
+Delta state,Warri South-West lga,2005,1,1
+Delta state,Warri South-West lga,2009,1,0
+Ebonyi state,,2003,1,1
+Ebonyi state,,2020,1,2
+Ebonyi state,,2021,1,7
+Ebonyi state,,2022,5,26
+Ebonyi state,Abakaliki lga,2003,1,6
+Ebonyi state,Abakaliki lga,2004,1,18
+Ebonyi state,Abakaliki lga,2006,1,2
+Ebonyi state,Abakaliki lga,2018,1,1
+Ebonyi state,Abakaliki lga,2023,1,2
+Ebonyi state,Abakaliki lga,2024,1,7
+Ebonyi state,Afikpo North lga,2020,1,2
+Ebonyi state,Afikpo North lga,2021,2,6
+Ebonyi state,Ezza North lga,2022,1,1
+Ebonyi state,Ikwo lga,2003,2,18
+Ebonyi state,Ikwo lga,2011,1,1
+Ebonyi state,Ikwo lga,2019,1,2
+Ebonyi state,Ishielu lga,2008,2,20
+Ebonyi state,Ishielu lga,2009,2,14
+Ebonyi state,Ishielu lga,2010,4,22
+Ebonyi state,Ishielu lga,2011,1,50
+Ebonyi state,Ishielu lga,2021,1,15
+Ebonyi state,Ishielu lga,2022,1,2
+Ebonyi state,Ivo lga,2023,1,0
+Ebonyi state,Ivo lga,2024,1,5
+Ebonyi state,Izzi lga,2011,1,3
+Ebonyi state,Izzi lga,2018,1,3
+Ebonyi state,Izzi lga,2019,1,1
+Ebonyi state,Izzi lga,2024,1,1
+Ebonyi state,Ohaozara lga,2021,3,8
+Ebonyi state,Ohaozara lga,2023,1,2
+Ebonyi state,Ohaukwu lga,2021,5,56
+Ebonyi state,Ohaukwu lga,2024,2,13
+Ebonyi state,Onicha lga,2021,1,0
+Ebonyi state,Onicha lga,2022,2,2
+Ebonyi state,Onicha lga,2023,1,1
+Edo state,,2003,1,1
+Edo state,,2005,1,7
+Edo state,,2008,4,10
+Edo state,,2009,2,23
+Edo state,,2010,1,11
+Edo state,,2011,4,26
+Edo state,,2012,5,23
+Edo state,,2013,1,20
+Edo state,,2014,3,40
+Edo state,,2015,2,3
+Edo state,,2016,4,12
+Edo state,,2019,10,32
+Edo state,,2020,10,45
+Edo state,,2022,2,3
+Edo state,,2023,7,10
+Edo state,,2024,2,6
+Edo state,Akoko-Edo lga,2023,1,3
+Edo state,Esan Central lga,2020,1,1
+Edo state,Esan West lga,2005,1,2
+Edo state,Esan West lga,2006,2,11
+Edo state,Esan West lga,2010,2,11
+Edo state,Esan West lga,2012,1,2
+Edo state,Esan West lga,2014,1,1
+Edo state,Esan West lga,2015,1,25
+Edo state,Esan West lga,2024,1,2
+Edo state,Etsako Central lga,2013,1,2
+Edo state,Etsako East lga,2023,1,3
+Edo state,Etsako West lga,2005,1,5
+Edo state,Etsako West lga,2010,1,3
+Edo state,Etsako West lga,2016,2,6
+Edo state,Etsako West lga,2023,1,4
+Edo state,Etsako West lga,2024,1,1
+Edo state,Oredo Edo lga,2005,1,7
+Edo state,Oredo lga,2003,1,1
+Edo state,Oredo lga,2005,1,1
+Edo state,Oredo lga,2010,1,2
+Edo state,Oredo lga,2023,1,3
+Edo state,Orhionmwon lga,2011,1,0
+Ekiti state,Ado-Ekiti lga,2014,1,0
+Ekiti state,Ido-Osi lga,2011,1,1
+Ekiti state,Ido-Osi lga,2018,1,1
+Ekiti state,Ikere lga,2004,1,6
+Ekiti state,Ikere lga,2021,1,6
+Ekiti state,Ikole lga,2018,1,1
+Ekiti state,Ilejemeje lga,2011,1,1
+Ekiti state,Oye lga,2009,1,0
+Enugu state,,2003,1,5
+Enugu state,,2005,1,10
+Enugu state,,2007,1,2
+Enugu state,,2008,2,2
+Enugu state,,2019,1,0
+Enugu state,,2021,4,16
+Enugu state,,2022,4,4
+Enugu state,,2023,3,2
+Enugu state,,2024,3,5
+Enugu state,Aninri lga,2021,1,0
+Enugu state,Aninri lga,2024,2,6
+Enugu state,Awgu lga,2019,1,0
+Enugu state,Awgu lga,2023,1,3
+Enugu state,Enugu East lga,2016,2,2
+Enugu state,Enugu East lga,2023,1,0
+Enugu state,Enugu North lga,2006,3,9
+Enugu state,Enugu North lga,2009,1,1
+Enugu state,Enugu North lga,2022,2,0
+Enugu state,Enugu South lga,2016,1,2
+Enugu state,Enugu South lga,2023,3,11
+Enugu state,Enugu South lga,2024,1,2
+Enugu state,Igbo Eze North lga,2022,1,1
+Enugu state,Igbo Eze North lga,2023,1,3
+Enugu state,Igbo-Etiti lga,2016,1,1
+Enugu state,Igbo-Etiti lga,2024,2,6
+Enugu state,Isi-Uzo lga,2021,2,0
+Enugu state,Isi-Uzo lga,2022,7,35
+Enugu state,Isi-Uzo lga,2024,2,4
+Enugu state,Nkanu East lga,2016,1,1
+Enugu state,Nkanu East lga,2022,1,1
+Enugu state,Nkanu East lga,2023,1,0
+Enugu state,Nkanu West lga,1999,1,1
+Enugu state,Nkanu West lga,2021,1,0
+Enugu state,Nkanu West lga,2022,1,3
+Enugu state,Nsukka lga,2021,1,0
+Enugu state,Nsukka lga,2024,1,4
+Enugu state,Oji River lga,2019,1,1
+Enugu state,Oji River lga,2022,1,0
+Enugu state,Oji River lga,2024,1,0
+Enugu state,Uzo Uwani lga,2016,2,14
+Enugu state,Uzo Uwani lga,2021,1,2
+Enugu state,Uzo Uwani lga,2024,4,8
+Federal Capital territory,Abuja municipal area council,2009,1,3
+Federal Capital territory,Abuja municipal area council,2011,2,29
+Federal Capital territory,Abuja municipal area council,2012,2,5
+Federal Capital territory,Abuja municipal area council,2014,4,119
+Federal Capital territory,Abuja municipal area council,2015,1,20
+Federal Capital territory,Abuja municipal area council,2018,2,40
+Federal Capital territory,Abuja municipal area council,2023,3,3
+Federal Capital territory,Bwari Area council,2011,1,3
+Federal Capital territory,Gwagwalada Area council,2011,2,39
+Federal Capital territory,Gwagwalada Area council,2022,1,0
+Federal Capital territory,Kuje Area council,2022,1,3
+Gombe state,,2007,1,1
+Gombe state,,2011,1,7
+Gombe state,,2012,2,8
+Gombe state,,2020,2,0
+Gombe state,Balanga lga,2000,1,10
+Gombe state,Balanga lga,2021,2,15
+Gombe state,Balanga lga,2022,1,2
+Gombe state,Dukku lga,2015,3,0
+Gombe state,Funakaye lga,2014,1,77
+Gombe state,Gombe lga,2011,1,4
+Gombe state,Gombe lga,2012,2,18
+Gombe state,Gombe lga,2013,3,12
+Gombe state,Gombe lga,2014,3,2
+Gombe state,Gombe lga,2015,6,57
+Gombe state,Kwami lga,2013,1,4
+Gombe state,Nafada lga,2012,1,0
+Gombe state,Nafada lga,2014,3,11
+Gombe state,Nafada lga,2015,2,0
+Gongola state,,1990,1,9
+Imo state,,2001,1,4
+Imo state,,2008,1,1
+Imo state,,2015,1,1
+Imo state,,2019,1,1
+Imo state,,2021,6,21
+Imo state,,2022,2,2
+Imo state,,2023,3,3
+Imo state,,2024,2,6
+Imo state,Aboh Mbaise lga,2021,2,11
+Imo state,Aboh Mbaise lga,2023,2,4
+Imo state,Ahiazu Mbaise lga,2022,1,2
+Imo state,Ahiazu Mbaise lga,2023,2,4
+Imo state,Ehime Mbano lga,2023,2,0
+Imo state,Ezinihitte Mbaise lga,2022,1,1
+Imo state,Ideato North lga,2021,1,0
+Imo state,Ideato North lga,2023,1,1
+Imo state,Ideato North lga,2024,2,3
+Imo state,Ihitte/Uboma lga,2022,1,1
+Imo state,Ihitte/Uboma lga,2023,1,1
+Imo state,Ikeduru lga,2003,1,1
+Imo state,Ikeduru lga,2024,2,6
+Imo state,Isiala Mbano lga,2023,1,0
+Imo state,Isiala Mbano lga,2024,1,2
+Imo state,Isu lga,2022,1,2
+Imo state,Mbaitoli lga,2022,1,1
+Imo state,Mbaitoli lga,2023,2,6
+Imo state,Mbaitoli lga,2024,2,5
+Imo state,Ngor-Okpala lga,2021,1,1
+Imo state,Ngor-Okpala lga,2023,2,5
+Imo state,Ngor-Okpala lga,2024,2,2
+Imo state,Njaba lga,2021,3,6
+Imo state,Njaba lga,2022,1,1
+Imo state,Njaba lga,2024,1,3
+Imo state,Obowo lga,2024,1,0
+Imo state,Oguta lga,2020,1,1
+Imo state,Oguta lga,2021,1,5
+Imo state,Oguta lga,2022,4,16
+Imo state,Oguta lga,2024,3,18
+Imo state,Ohaji/Egbema lga,2015,1,4
+Imo state,Ohaji/Egbema lga,2016,3,10
+Imo state,Ohaji/Egbema lga,2021,1,0
+Imo state,Ohaji/Egbema lga,2022,2,8
+Imo state,Okigwe lga,2023,5,5
+Imo state,Okigwe lga,2024,3,3
+Imo state,Onuimo lga,2022,1,2
+Imo state,Onuimo lga,2024,1,1
+Imo state,Orlu lga,2021,7,18
+Imo state,Orlu lga,2022,5,12
+Imo state,Orlu lga,2023,1,1
+Imo state,Orsu lga,2021,3,2
+Imo state,Orsu lga,2022,4,6
+Imo state,Orsu lga,2023,1,1
+Imo state,Orsu lga,2024,12,45
+Imo state,Oru East lga,2021,3,16
+Imo state,Oru East lga,2022,2,11
+Imo state,Oru East lga,2023,1,0
+Imo state,Oru West lga,2022,1,2
+Imo state,Owerri Municipal lga,2001,2,15
+Imo state,Owerri North lga,2021,1,1
+Imo state,Owerri North lga,2022,1,1
+Imo state,Owerri West lga,2007,1,4
+Imo state,Owerri West lga,2019,1,1
+Imo state,Owerri West lga,2022,2,10
+Imo state,Owerri West lga,2023,2,3
+Imo state,Owerri West lga,2024,1,0
+Jigawa state,,2011,1,7
+Jigawa state,Babura lga,2011,1,1
+Jigawa state,Birniwa lga,2012,1,1
+Jigawa state,Dutse lga,2023,1,0
+Jigawa state,Guri lga,2013,1,3
+Jigawa state,Gwaram lga,2014,3,71
+Jigawa state,Maigatari lga,2023,1,1
+Kaduna state,,1992,1,6
+Kaduna state,,2008,1,0
+Kaduna state,,2011,6,225
+Kaduna state,,2012,16,141
+Kaduna state,,2013,1,1
+Kaduna state,,2014,2,32
+Kaduna state,,2015,2,14
+Kaduna state,,2017,1,3
+Kaduna state,,2018,2,27
+Kaduna state,,2020,1,35
+Kaduna state,,2022,1,1
+Kaduna state,Birnin Gwari lga,2000,1,450
+Kaduna state,Chikun lga,2012,1,1
+Kaduna state,Chikun lga,2015,1,0
+Kaduna state,Chikun lga,2022,1,0
+Kaduna state,Giwa lga,2022,1,0
+Kaduna state,Igabi lga,2012,2,31
+Kaduna state,Igabi lga,2014,1,1
+Kaduna state,Ikara lga,1992,1,10
+Kaduna state,Jema'a lga,2011,2,250
+Kaduna state,Jema'a lga,2016,10,125
+Kaduna state,Jema'a lga,2017,4,12
+Kaduna state,Jema'a lga,2018,4,0
+Kaduna state,Kachia lga,2000,1,450
+Kaduna state,Kachia lga,2024,1,2
+Kaduna state,Kaduna North lga,1992,1,247
+Kaduna state,Kaduna North lga,1998,1,0
+Kaduna state,Kaduna North lga,2000,4,500
+Kaduna state,Kaduna North lga,2001,1,0
+Kaduna state,Kaduna North lga,2002,17,220
+Kaduna state,Kaduna South lga,2002,1,1
+Kaduna state,Kajuru lga,2017,2,37
+Kaduna state,Kajuru lga,2018,1,55
+Kaduna state,Kajuru lga,2019,8,151
+Kaduna state,Kajuru lga,2020,11,84
+Kaduna state,Kaura lga,2010,1,0
+Kaduna state,Kaura lga,2012,1,0
+Kaduna state,Kaura lga,2013,9,54
+Kaduna state,Kaura lga,2014,5,115
+Kaduna state,Kaura lga,2015,1,1
+Kaduna state,Kaura lga,2017,2,24
+Kaduna state,Kaura lga,2019,1,5
+Kaduna state,Kaura lga,2020,5,29
+Kaduna state,Kaura lga,2022,1,38
+Kaduna state,Kauru lga,2010,1,6
+Kaduna state,Kauru lga,2020,6,22
+Kaduna state,Kauru lga,2022,2,26
+Kaduna state,Lere lga,2011,1,1
+Kaduna state,Lere lga,2014,1,6
+Kaduna state,Lere lga,2015,1,6
+Kaduna state,Sanga lga,2014,7,94
+Kaduna state,Sanga lga,2015,1,15
+Kaduna state,Soba lga,2001,1,11
+Kaduna state,Tudun Wada lga,2012,1,9
+Kaduna state,Tudun Wada lga,2015,1,1
+Kaduna state,Zangon Kataf lga,2011,1,126
+Kaduna state,Zangon Kataf lga,2015,1,3
+Kaduna state,Zangon Kataf lga,2017,1,0
+Kaduna state,Zangon Kataf lga,2020,14,76
+Kaduna state,Zangon Kataf lga,2021,8,37
+Kaduna state,Zangon Kataf lga,2022,2,1
+Kaduna state,Zangon Kataf lga,2023,5,74
+Kaduna state,Zangon-Kataf lga,1992,2,283
+Kaduna state,Zangon-Kataf lga,1996,1,2
+Kaduna state,Zangon-Kataf lga,1999,1,100
+Kaduna state,Zaria lga,1992,1,36
+Kaduna state,Zaria lga,2000,1,450
+Kaduna state,Zaria lga,2011,1,90
+Kaduna state,Zaria lga,2012,5,19
+Kaduna state,Zaria lga,2014,3,37
+Kaduna state,Zaria lga,2015,1,26
+Kaduna state,Zaria lga,2022,1,0
+Kano state,,1991,1,200
+Kano state,,1998,3,17
+Kano state,,1999,2,33
+Kano state,,2001,2,200
+Kano state,,2004,2,224
+Kano state,,2007,1,9
+Kano state,,2009,1,0
+Kano state,,2011,2,14
+Kano state,,2012,35,259
+Kano state,,2013,13,60
+Kano state,,2014,9,132
+Kano state,,2015,3,30
+Kano state,,2016,1,1
+Kano state,,2017,1,0
+Kano state,,2020,1,2
+Kano state,,2022,2,2
+Kano state,Bankure lga,2013,1,0
+Kano state,Bebeji lga,2019,1,2
+Kano state,Bichi lga,2004,1,1
+Kano state,Bichi lga,2012,1,4
+Kano state,Bunkure lga,2003,1,3
+Kano state,Garum Mallam lga,2015,1,22
+Kano state,Gezawa lga,2013,1,1
+Kano state,Gwarzo lga,2003,1,0
+Kano state,Kano Municipal lga,2011,1,0
+Kano state,Kibiya lga,2015,1,1
+Kano state,Taurani lga,2013,1,14
+Kano state,Ungongo lga,2013,1,2
+Kano state,Warawa lga,2015,1,4
+Kano state,Wudil lga,2009,1,3
+Katsina state,,2011,1,8
+Katsina state,Daura lga,2013,1,0
+Katsina state,Kankara lga,2011,1,7
+Katsina state,Kankara lga,2020,1,0
+Katsina state,Katsina lga,2011,1,0
+Katsina state,Katsina lga,2014,1,2
+Katsina state,Kurfi lga,2020,1,11
+Kebbi state,Augie lga,2024,1,6
+Kebbi state,Fakai lga,2023,1,1
+Kebbi state,Jega lga,2004,1,3
+Kogi state,,2014,1,0
+Kogi state,Adavi lga,2022,1,3
+Kogi state,Ankpa lga,2015,1,2
+Kogi state,Bassa lga,2016,1,2
+Kogi state,Bassa lga,2018,3,28
+Kogi state,Bassa lga,2019,2,22
+Kogi state,Bassa lga,2022,6,28
+Kogi state,Dekina lga,2013,1,2
+Kogi state,Dekina lga,2019,6,5
+Kogi state,Dekina lga,2020,2,5
+Kogi state,Dekina lga,2023,3,10
+Kogi state,Igalamela/Odolu lga,2020,2,3
+Kogi state,Ijumu lga,2018,2,10
+Kogi state,Kabba Bunu lga,2022,1,0
+Kogi state,Kogi lga,2012,1,1
+Kogi state,Kogi lga,2020,3,3
+Kogi state,Lokoja lga,2012,1,1
+Kogi state,Lokoja lga,2015,1,1
+Kogi state,Lokoja lga,2022,1,2
+Kogi state,Lokoja lga,2023,1,0
+Kogi state,Ofu lga,2013,1,0
+Kogi state,Ofu lga,2019,1,1
+Kogi state,Okene lga,2003,1,2
+Kogi state,Okene lga,2008,2,26
+Kogi state,Okene lga,2012,3,34
+Kogi state,Okene lga,2015,1,3
+Kogi state,Okene lga,2019,1,1
+Kogi state,Okene lga,2022,2,4
+Kogi state,Omala lga,2024,2,31
+Kwara state,,2003,1,1
+Kwara state,Asa lga,2013,2,4
+Kwara state,Asa lga,2014,1,4
+Kwara state,Asa lga,2021,2,7
+Kwara state,Asa lga,2024,1,0
+Kwara state,Ifelodun lga,2015,1,2
+Kwara state,Ilorin East lga,2015,1,16
+Kwara state,Ilorin East lga,2017,2,8
+Kwara state,Ilorin East lga,2018,2,5
+Kwara state,Ilorin East lga,2020,1,1
+Kwara state,Ilorin East lga,2021,1,2
+Kwara state,Ilorin East lga,2022,6,8
+Kwara state,Ilorin East lga,2023,4,9
+Kwara state,Ilorin East lga,2024,2,2
+Kwara state,Ilorin West lga,2002,1,2
+Kwara state,Ilorin West lga,2003,3,4
+Kwara state,Ilorin West lga,2014,1,5
+Lagos state,,1992,1,1
+Lagos state,,1993,1,2
+Lagos state,,1994,2,4
+Lagos state,,1996,1,1
+Lagos state,,1998,2,58
+Lagos state,,2000,2,2
+Lagos state,,2002,1,1
+Lagos state,,2003,5,18
+Lagos state,,2005,1,1
+Lagos state,,2008,1,1
+Lagos state,,2011,1,1
+Lagos state,,2012,4,19
+Lagos state,,2013,3,5
+Lagos state,,2014,8,11
+Lagos state,,2015,6,10
+Lagos state,,2016,5,12
+Lagos state,,2018,1,1
+Lagos state,,2019,16,35
+Lagos state,,2020,5,20
+Lagos state,,2021,3,4
+Lagos state,,2023,2,3
+Lagos state,,2024,2,4
+Lagos state,Agege  lga,2024,1,1
+Lagos state,Agege lga,2000,1,2
+Lagos state,Ajeromi-Ifelodun lga,2017,1,2
+Lagos state,Amuwo-Odofin  lga,2023,1,1
+Lagos state,Apapa lga,2010,1,1
+Lagos state,Badagary lga,2003,1,1
+Lagos state,Badagry  lga,2018,1,1
+Lagos state,Badagry  lga,2019,2,2
+Lagos state,Badagry  lga,2022,3,3
+Lagos state,Epe lga,2011,1,1
+Lagos state,Epe lga,2018,1,1
+Lagos state,Epe lga,2019,1,2
+Lagos state,Eti-Osa lga,2017,1,2
+Lagos state,Eti-Osa lga,2019,1,4
+Lagos state,Eti-Osa lga,2021,1,1
+Lagos state,Eti-Osa lga,2022,1,1
+Lagos state,Ibeju/Lekki lga,2016,1,1
+Lagos state,Ikeja lga,2023,1,1
+Lagos state,Ikorodu lga,2009,1,2
+Lagos state,Ikorodu lga,2011,3,6
+Lagos state,Ikorodu lga,2014,1,1
+Lagos state,Ikorodu lga,2016,2,7
+Lagos state,Ikorodu lga,2017,1,5
+Lagos state,Ikorodu lga,2018,2,4
+Lagos state,Ikorodu lga,2019,10,18
+Lagos state,Ikorodu lga,2020,3,6
+Lagos state,Ikorodu lga,2021,3,8
+Lagos state,Ikorodu lga,2022,1,1
+Lagos state,Ikorodu lga,2024,1,1
+Lagos state,Kosofe lga,1994,1,2
+Lagos state,Kosofe lga,2016,1,12
+Lagos state,Kosofe lga,2022,6,8
+Lagos state,Lagos Mainland lga,2009,1,3
+Lagos state,Lagos Mainland lga,2022,1,1
+Lagos state,Lagos Mainland lga,2023,1,2
+Lagos state,Lagos Mainland lga,2024,1,1
+Lagos state,Mushin lga,2002,1,100
+Lagos state,Mushin lga,2003,1,7
+Lagos state,Mushin lga,2013,2,3
+Lagos state,Ojo lga,2007,1,3
+Lagos state,Ojo lga,2013,2,6
+Lagos state,Ojo lga,2019,2,2
+Lagos state,Ojo lga,2021,1,1
+Lagos state,Ojo lga,2023,4,9
+Lagos state,Oshodi-Isolo lga,2023,1,1
+Lagos state,Shomolu lga,2013,4,5
+Lagos state,Shomolu lga,2016,1,3
+Lagos state,Shomolu lga,2021,1,1
+Nasarawa state,,1997,1,10
+Nasarawa state,,2021,2,46
+Nasarawa state,Awe lga,2013,4,34
+Nasarawa state,Awe lga,2018,5,26
+Nasarawa state,Doma lga,2011,3,3
+Nasarawa state,Doma lga,2013,3,48
+Nasarawa state,Doma lga,2014,1,0
+Nasarawa state,Doma lga,2018,2,20
+Nasarawa state,Doma lga,2021,1,11
+Nasarawa state,Doma lga,2023,1,1
+Nasarawa state,Karu lga,2024,1,4
+Nasarawa state,Keana lga,2011,2,4
+Nasarawa state,Keana lga,2012,2,15
+Nasarawa state,Keana lga,2013,4,24
+Nasarawa state,Keana lga,2014,1,0
+Nasarawa state,Keana lga,2018,10,43
+Nasarawa state,Keana lga,2020,2,6
+Nasarawa state,Keana lga,2021,5,17
+Nasarawa state,Keana lga,2022,3,14
+Nasarawa state,Keana lga,2023,1,1
+Nasarawa state,Keana lga,2024,2,6
+Nasarawa state,Kokona lga,2016,1,1
+Nasarawa state,Lafia lga,2011,3,4
+Nasarawa state,Lafia lga,2012,2,50
+Nasarawa state,Lafia lga,2013,1,3
+Nasarawa state,Lafia lga,2014,20,157
+Nasarawa state,Lafia lga,2018,1,15
+Nasarawa state,Nasarawa Eggon lga,2013,1,0
+Nasarawa state,Nasarawa Eggon lga,2014,3,98
+Nasarawa state,Nasarawa Eggon lga,2020,1,1
+Nasarawa state,Nasarawa lga,2009,2,33
+Nasarawa state,Nasarawa lga,2015,2,3
+Nasarawa state,Nasarawa lga,2016,1,30
+Nasarawa state,Obi lga,2001,1,200
+Nasarawa state,Obi lga,2012,1,10
+Nasarawa state,Obi lga,2013,3,33
+Nasarawa state,Obi lga,2014,3,5
+Nasarawa state,Obi lga,2016,1,1
+Nasarawa state,Obi lga,2018,8,37
+Nasarawa state,Obi lga,2019,1,2
+Nasarawa state,Obi lga,2022,1,2
+Nasarawa state,Obi lga,2023,1,2
+Nasarawa state,Toto lga,2003,1,4
+Nasarawa state,Toto lga,2016,1,2
+Nasarawa state,Toto lga,2018,5,26
+Nasarawa state,Toto lga,2019,1,3
+Nasarawa state,Toto lga,2020,2,0
+Niger state,,2011,1,8
+Niger state,,2016,1,3
+Niger state,Borgu lga,2022,2,11
+Niger state,Borgu lga,2023,1,3
+Niger state,Chanchaga lga,2012,1,2
+Niger state,Chanchaga lga,2023,1,1
+Niger state,Kontagora lga,2006,1,9
+Niger state,Kontagora lga,2014,1,1
+Niger state,Kontagora lga,2019,1,1
+Niger state,Lapai lga,2012,1,2
+Niger state,Muya lga,2024,2,10
+Niger state,Rafi lga,2016,1,1
+Niger state,Shiroro lga,2021,1,2
+Niger state,Shiroro lga,2022,1,11
+Niger state,Shiroro lga,2024,6,63
+Niger state,Suleja lga,2009,1,1
+Niger state,Suleja lga,2011,3,0
+Niger state,Suleja lga,2022,1,4
+Nigeria,,2001,2,3
+Nigeria,,2003,1,1
+Nigeria,,2004,1,10
+Nigeria,,2005,1,100
+Nigeria,,2010,1,0
+Nigeria,,2012,1,1
+Nigeria,,2014,3,10
+Nigeria,,2015,2,256
+Nigeria,,2016,1,32
+Nigeria,,2017,1,20
+Nigeria,,2018,2,12
+Nigeria,,2019,7,20
+Nigeria,,2020,6,10
+Nigeria,,2021,10,30
+Nigeria,,2022,5,79
+Nigeria,,2023,1,15
+Nigeria,,2024,1,33
+Ogun state,Abeokuta North lga,2015,1,3
+Ogun state,Abeokuta North lga,2019,1,1
+Ogun state,Abeokuta South lga,2022,5,11
+Ogun state,Abeokuta South lga,2023,2,3
+Ogun state,Abeokuta South lga,2024,3,3
+Ogun state,Ado-Odo/Ota lga,2015,1,2
+Ogun state,Ado-Odo/Ota lga,2016,5,15
+Ogun state,Ado-Odo/Ota lga,2017,1,2
+Ogun state,Ado-Odo/Ota lga,2023,2,4
+Ogun state,Ado-Odo/Ota lga,2024,2,5
+Ogun state,Egbado North/Yewa North lga,2015,1,1
+Ogun state,Egbado North/Yewa North lga,2021,5,13
+Ogun state,Egbado North/Yewa North lga,2023,1,1
+Ogun state,Egbado South/Yewa South lga,2018,1,1
+Ogun state,Egbado South/Yewa South lga,2022,1,1
+Ogun state,Ifo lga,2017,1,1
+Ogun state,Ifo lga,2019,1,1
+Ogun state,Ijebu North lga,2004,1,2
+Ogun state,Ijebu North lga,2014,1,3
+Ogun state,Ijebu North lga,2017,1,1
+Ogun state,Ijebu Ode lga,2010,1,1
+Ogun state,Ijebu Ode lga,2011,1,1
+Ogun state,Ijebu Ode lga,2012,1,3
+Ogun state,Ijebu Ode lga,2014,4,9
+Ogun state,Ijebu Ode lga,2015,2,10
+Ogun state,Ijebu Ode lga,2019,2,13
+Ogun state,Ijebu Ode lga,2024,2,2
+Ogun state,Ikenne lga,2019,1,1
+Ogun state,Imeko-Afon lga,2019,1,4
+Ogun state,Imeko-Afon lga,2021,1,1
+Ogun state,Imeko-Afon lga,2022,1,2
+Ogun state,Imeko-Afon lga,2024,1,1
+Ogun state,Ipokia lga,2019,1,0
+Ogun state,Obafemi-Owode lga,2018,1,4
+Ogun state,Odeda lga,2019,1,1
+Ogun state,Odeda lga,2024,1,2
+Ogun state,Shagamu lga,1999,1,60
+Ogun state,Shagamu lga,2010,3,7
+Ogun state,Shagamu lga,2019,2,6
+Ogun state,Shagamu lga,2022,2,12
+Ogun state,Shagamu lga,2023,7,31
+Ondo state,,2019,1,1
+Ondo state,Akoko North East lga,2022,1,1
+Ondo state,Akoko North West lga,2021,1,1
+Ondo state,Akure South lga,2015,1,1
+Ondo state,Akure South lga,2017,1,10
+Ondo state,Akure South lga,2018,1,1
+Ondo state,Akure South lga,2024,1,1
+Ondo state,Ese-Odo lga,2022,1,1
+Ondo state,Idanre lga,2023,1,1
+Ondo state,Ilaje lga,1998,2,50
+Ondo state,Ilaje lga,1999,2,70
+Ondo state,Ilaje lga,2004,1,2
+Ondo state,Ilaje lga,2021,1,5
+Ondo state,Odigbo lga,2017,1,1
+Ondo state,Odigbo lga,2019,1,4
+Ondo state,Okitipupa lga,2011,1,1
+Ondo state,Okitipupa lga,2021,1,6
+Ondo state,Ondo lga,1998,1,1
+Ondo state,Ondo west lga,2017,1,2
+Ondo state,Ondo west lga,2018,1,0
+Ondo state,Ondo west lga,2019,3,4
+Ondo state,Ondo west lga,2020,1,3
+Ondo state,Owo lga,2022,1,40
+Osun state,,1998,2,12
+Osun state,,2014,1,2
+Osun state,,2017,1,46
+Osun state,,2022,1,10
+Osun state,,2023,4,7
+Osun state,,2024,1,3
+Osun state,Atakunmosa West lga,2019,2,5
+Osun state,Atakunmosa West lga,2024,1,3
+Osun state,Ife Central lga,1997,5,144
+Osun state,Ife Central lga,1998,2,22
+Osun state,Ife Central lga,2000,4,31
+Osun state,Ife Central lga,2004,1,0
+Osun state,Ifelodun lga,2015,1,1
+Osun state,Irewole lga,2000,4,30
+Osun state,Iwo lga,2018,1,1
+Osun state,Obokun lga,2020,1,1
+Osun state,Oriade lga,2023,1,0
+Osun state,Osogbo lga,2001,1,1
+Osun state,Osogbo lga,2020,1,0
+Osun state,Osogbo lga,2021,6,7
+Osun state,Osogbo lga,2022,4,4
+Oyo state,,2002,1,3
+Oyo state,,2011,2,27
+Oyo state,Akinyele lga,2018,1,2
+Oyo state,Akinyele lga,2020,1,0
+Oyo state,Ibadan North lga,1998,3,19
+Oyo state,Ibadan North lga,2000,1,3
+Oyo state,Ibadan North lga,2004,2,7
+Oyo state,Ibadan North lga,2007,1,5
+Oyo state,Ibadan North lga,2011,1,2
+Oyo state,Ibadan North lga,2019,2,0
+Oyo state,Ibadan North lga,2020,1,1
+Oyo state,Ibadan North lga,2021,2,4
+Oyo state,Ibadan North lga,2022,1,0
+Oyo state,Ibadan North lga,2024,3,4
+Oyo state,Ibadan South East,2023,1,3
+Oyo state,Ibadan South West,2019,1,2
+Oyo state,Ibarapa East lga,2020,1,0
+Oyo state,Ibarapa North lga,2020,1,1
+Oyo state,Ibarapa North lga,2021,4,21
+Oyo state,Ido lga,2016,1,3
+Oyo state,Iseyin lga,2018,2,13
+Oyo state,Iwajowa lga,2023,1,1
+Oyo state,Ogbomosho North lga,2020,1,1
+Oyo state,Ogo Oluwa lga,2021,1,2
+Oyo state,Orelope lga,2011,1,2
+Oyo state,Oriire lga,2020,1,0
+Oyo state,Oyo West lga,2020,1,0
+Oyo state,Oyo West lga,2022,1,0
+Oyo state,Oyo lga,1998,1,20
+Oyo state,Saki East lga,2019,1,1
+Oyo state,Saki West lga,2017,1,1
+Plateau state,,2001,1,50
+Plateau state,,2002,1,10
+Plateau state,,2004,4,50
+Plateau state,,2010,1,10
+Plateau state,,2011,1,3
+Plateau state,,2012,1,1
+Plateau state,,2014,1,0
+Plateau state,,2015,1,0
+Plateau state,,2017,1,1
+Plateau state,,2018,1,6
+Plateau state,,2019,1,1
+Plateau state,,2022,1,0
+Plateau state,Barkin Ladi lga,2002,1,16
+Plateau state,Barkin Ladi lga,2010,12,268
+Plateau state,Barkin Ladi lga,2011,11,95
+Plateau state,Barkin Ladi lga,2012,10,12
+Plateau state,Barkin Ladi lga,2013,7,42
+Plateau state,Barkin Ladi lga,2014,1,0
+Plateau state,Barkin Ladi lga,2015,13,117
+Plateau state,Barkin Ladi lga,2017,1,0
+Plateau state,Barkin Ladi lga,2018,27,175
+Plateau state,Barkin Ladi lga,2019,4,5
+Plateau state,Barkin Ladi lga,2020,2,2
+Plateau state,Barkin Ladi lga,2023,7,84
+Plateau state,Barkin Ladi lga,2024,3,6
+Plateau state,Bassa lga,2002,1,10
+Plateau state,Bassa lga,2010,2,15
+Plateau state,Bassa lga,2017,9,72
+Plateau state,Bassa lga,2018,21,119
+Plateau state,Bassa lga,2019,8,10
+Plateau state,Bassa lga,2020,8,28
+Plateau state,Bassa lga,2021,19,51
+Plateau state,Bassa lga,2022,9,53
+Plateau state,Bassa lga,2023,2,12
+Plateau state,Bassa lga,2024,8,20
+Plateau state,Bokkos lga,2013,2,6
+Plateau state,Bokkos lga,2014,3,9
+Plateau state,Bokkos lga,2016,1,4
+Plateau state,Bokkos lga,2018,2,16
+Plateau state,Bokkos lga,2023,1,148
+Plateau state,Bokkos lga,2024,8,30
+Plateau state,Jos North lga,1994,1,4
+Plateau state,Jos North lga,2001,3,992
+Plateau state,Jos North lga,2002,1,20
+Plateau state,Jos North lga,2008,3,333
+Plateau state,Jos North lga,2010,8,107
+Plateau state,Jos North lga,2011,13,60
+Plateau state,Jos North lga,2012,9,40
+Plateau state,Jos North lga,2014,3,161
+Plateau state,Jos North lga,2015,2,68
+Plateau state,Jos North lga,2017,1,2
+Plateau state,Jos North lga,2018,2,18
+Plateau state,Jos North lga,2019,1,3
+Plateau state,Jos North lga,2020,3,3
+Plateau state,Jos North lga,2021,4,35
+Plateau state,Jos North lga,2022,2,1
+Plateau state,Jos South lga,2001,1,21
+Plateau state,Jos South lga,2002,1,21
+Plateau state,Jos South lga,2010,10,396
+Plateau state,Jos South lga,2011,5,19
+Plateau state,Jos South lga,2013,2,12
+Plateau state,Jos South lga,2018,4,16
+Plateau state,Jos South lga,2023,3,15
+Plateau state,Kanam lga,2015,1,0
+Plateau state,Langtang North lga,2014,2,3
+Plateau state,Langtang South lga,2004,9,57
+Plateau state,Langtang South lga,2013,4,39
+Plateau state,Langtang South lga,2014,1,0
+Plateau state,Mangu lga,2010,1,9
+Plateau state,Mangu lga,2014,1,3
+Plateau state,Mangu lga,2015,1,10
+Plateau state,Mangu lga,2018,2,35
+Plateau state,Mangu lga,2020,1,13
+Plateau state,Mangu lga,2023,19,217
+Plateau state,Mangu lga,2024,4,68
+Plateau state,Qua'an Pan lga,2004,2,20
+Plateau state,Qua'an Pan lga,2006,1,25
+Plateau state,Riyom lga,2001,1,8
+Plateau state,Riyom lga,2002,3,22
+Plateau state,Riyom lga,2010,6,42
+Plateau state,Riyom lga,2011,1,15
+Plateau state,Riyom lga,2012,21,73
+Plateau state,Riyom lga,2013,2,23
+Plateau state,Riyom lga,2014,10,34
+Plateau state,Riyom lga,2015,2,0
+Plateau state,Riyom lga,2017,5,4
+Plateau state,Riyom lga,2018,6,51
+Plateau state,Riyom lga,2019,2,14
+Plateau state,Riyom lga,2020,1,0
+Plateau state,Riyom lga,2021,1,12
+Plateau state,Riyom lga,2022,3,3
+Plateau state,Riyom lga,2023,11,38
+Plateau state,Riyom lga,2024,2,16
+Plateau state,Shendam lga,2002,1,6
+Plateau state,Shendam lga,2004,10,827
+Plateau state,Shendam lga,2011,1,0
+Plateau state,Wase lga,2002,2,25
+Plateau state,Wase lga,2004,5,54
+Plateau state,Wase lga,2013,7,73
+Plateau state,Wase lga,2014,1,0
+Plateau state,Wase lga,2015,3,28
+Rivers state,,1992,1,60
+Rivers state,,1993,4,1140
+Rivers state,,1994,2,25
+Rivers state,,1997,1,1
+Rivers state,,1998,1,1
+Rivers state,,1999,2,25
+Rivers state,,2002,1,7
+Rivers state,,2004,8,67
+Rivers state,,2007,6,108
+Rivers state,,2008,1,1
+Rivers state,,2009,4,13
+Rivers state,,2011,1,6
+Rivers state,,2012,8,49
+Rivers state,,2015,3,14
+Rivers state,,2017,1,3
+Rivers state,,2018,1,1
+Rivers state,,2020,3,3
+Rivers state,,2021,2,8
+Rivers state,,2023,3,3
+Rivers state,,2024,1,7
+Rivers state,Abua/Odual lga,2013,1,6
+Rivers state,Abua/Odual lga,2014,2,4
+Rivers state,Abua/Odual lga,2021,1,4
+Rivers state,Ahoada East lga,2022,1,5
+Rivers state,Ahoada East lga,2023,1,3
+Rivers state,Ahoada West lga,2019,1,1
+Rivers state,Ahoada West lga,2023,1,6
+Rivers state,Akuku-Toru lga,2004,1,2
+Rivers state,Akuku-Toru lga,2019,1,1
+Rivers state,Andoni lga,2013,1,8
+Rivers state,Andoni lga,2020,1,3
+Rivers state,Asari-Toru lga,2004,1,4
+Rivers state,Asari-Toru lga,2009,1,0
+Rivers state,Asari-Toru lga,2016,2,2
+Rivers state,Degema lga,2003,1,4
+Rivers state,Degema lga,2004,2,5
+Rivers state,Degema lga,2006,1,10
+Rivers state,Degema lga,2015,1,1
+Rivers state,Eleme lga,2015,1,2
+Rivers state,Emohua lga,2004,3,48
+Rivers state,Emohua lga,2005,3,63
+Rivers state,Emohua lga,2006,2,11
+Rivers state,Emohua lga,2007,1,4
+Rivers state,Emohua lga,2008,1,12
+Rivers state,Emohua lga,2013,1,2
+Rivers state,Emohua lga,2014,1,10
+Rivers state,Emohua lga,2016,3,16
+Rivers state,Emohua lga,2017,5,22
+Rivers state,Emohua lga,2019,3,9
+Rivers state,Emohua lga,2023,1,2
+Rivers state,Etche lga,1990,1,80
+Rivers state,Etche lga,2003,1,1
+Rivers state,Etche lga,2014,2,7
+Rivers state,Etche lga,2015,1,3
+Rivers state,Etche lga,2016,1,4
+Rivers state,Etche lga,2019,4,4
+Rivers state,Gokana lga,1993,1,1
+Rivers state,Gokana lga,1994,3,8
+Rivers state,Gokana lga,2005,3,11
+Rivers state,Gokana lga,2006,4,23
+Rivers state,Gokana lga,2007,1,2
+Rivers state,Gokana lga,2010,1,1
+Rivers state,Ikwerre lga,2003,1,1
+Rivers state,Ikwerre lga,2013,1,3
+Rivers state,Ikwerre lga,2016,5,17
+Rivers state,Ikwerre lga,2017,1,2
+Rivers state,Ikwerre lga,2022,1,1
+Rivers state,Khana lga,1993,1,35
+Rivers state,Khana lga,1994,5,17
+Rivers state,Khana lga,1996,1,3
+Rivers state,Khana lga,1998,1,1
+Rivers state,Khana lga,2007,3,6
+Rivers state,Khana lga,2008,1,1
+Rivers state,Khana lga,2011,3,2
+Rivers state,Khana lga,2019,2,27
+Rivers state,Khana lga,2020,2,5
+Rivers state,Obio-Akpor lga,2009,1,1
+Rivers state,Obio-Akpor lga,2019,3,7
+Rivers state,Ogba-Egbema-Ndoni lga,2015,2,21
+Rivers state,Ogba-Egbema-Ndoni lga,2016,5,25
+Rivers state,Ogba-Egbema-Ndoni lga,2018,1,1
+Rivers state,Ogu/Bolo lga,2001,1,1
+Rivers state,Ogu/Bolo lga,2002,1,1
+Rivers state,Okrika lga,2000,1,1
+Rivers state,Oyigbo lga,1994,1,30
+Rivers state,Oyigbo lga,2020,1,2
+Rivers state,Port Harcourt lga,2010,1,1
+Rivers state,Tai lga,2007,1,1
+Rivers state,Tai lga,2014,1,3
+Rivers state,Tai lga,2015,3,10
+Rivers state,Tai lga,2017,1,12
+Sokoto state,,2011,1,7
+Sokoto state,,2021,1,1
+Sokoto state,Goronyo lga,2021,1,0
+Sokoto state,Gwadabawa lga,2021,1,11
+Sokoto state,Kebbe lga,2003,1,1
+Sokoto state,Sabon Birni lga,2021,3,25
+Sokoto state,Tambuwal lga,2011,1,0
+Sokoto state,Tureta lga,2003,1,1
+Sokoto state,Wamakko lga,2011,1,1
+Sokoto state,Wamakko lga,2012,2,11
+Sokoto state,Wamakko lga,2013,2,4
+Sokoto state,Wamakko lga,2019,1,0
+Taraba state,,1992,1,100
+Taraba state,,2001,2,21
+Taraba state,,2014,1,0
+Taraba state,,2015,1,5
+Taraba state,,2019,2,6
+Taraba state,,2023,1,1
+Taraba state,Ardo-Kola lga,2015,1,8
+Taraba state,Ardo-Kola lga,2018,1,6
+Taraba state,Ardo-Kola lga,2019,2,1
+Taraba state,Ardo-Kola lga,2022,1,3
+Taraba state,Ardo-Kola lga,2023,1,11
+Taraba state,Bali lga,2004,1,16
+Taraba state,Bali lga,2014,7,45
+Taraba state,Bali lga,2017,3,11
+Taraba state,Bali lga,2018,1,4
+Taraba state,Bali lga,2020,4,20
+Taraba state,Bali lga,2021,8,35
+Taraba state,Bali lga,2024,1,6
+Taraba state,Donga lga,2001,3,50
+Taraba state,Donga lga,2014,2,17
+Taraba state,Donga lga,2015,1,5
+Taraba state,Donga lga,2018,2,2
+Taraba state,Donga lga,2019,7,25
+Taraba state,Donga lga,2020,8,9
+Taraba state,Donga lga,2022,1,26
+Taraba state,Donga lga,2024,1,7
+Taraba state,Gassol lga,2014,1,0
+Taraba state,Gassol lga,2016,6,43
+Taraba state,Gassol lga,2018,2,10
+Taraba state,Gassol lga,2019,2,5
+Taraba state,Gassol lga,2020,2,5
+Taraba state,Gassol lga,2021,3,23
+Taraba state,Ibi lga,2001,4,100
+Taraba state,Ibi lga,2004,4,41
+Taraba state,Ibi lga,2012,1,3
+Taraba state,Ibi lga,2015,2,10
+Taraba state,Ibi lga,2018,4,10
+Taraba state,Ibi lga,2020,1,2
+Taraba state,Jalingo lga,1992,1,200
+Taraba state,Jalingo lga,2012,1,0
+Taraba state,Jalingo lga,2019,4,17
+Taraba state,Karim Lamido lga,1996,1,80
+Taraba state,Karim Lamidu lga,1999,2,100
+Taraba state,Karim Lamidu lga,2012,5,13
+Taraba state,Karim Lamidu lga,2013,2,4
+Taraba state,Karim Lamidu lga,2023,2,70
+Taraba state,Lau lga,2018,14,106
+Taraba state,Lau lga,2020,1,25
+Taraba state,Sardauna lga,2002,1,50
+Taraba state,Sardauna lga,2015,1,1
+Taraba state,Sardauna lga,2017,4,141
+Taraba state,Sardauna lga,2018,5,16
+Taraba state,Takum lga,2011,1,4
+Taraba state,Takum lga,2012,8,18
+Taraba state,Takum lga,2013,1,6
+Taraba state,Takum lga,2015,2,59
+Taraba state,Takum lga,2019,6,57
+Taraba state,Takum lga,2021,2,10
+Taraba state,Takum lga,2023,3,16
+Taraba state,Ussa lga,2018,1,9
+Taraba state,Ussa lga,2023,3,24
+Taraba state,Wukari lga,1991,1,30
+Taraba state,Wukari lga,1992,1,0
+Taraba state,Wukari lga,1993,1,7
+Taraba state,Wukari lga,2001,1,17
+Taraba state,Wukari lga,2010,1,0
+Taraba state,Wukari lga,2012,1,5
+Taraba state,Wukari lga,2013,2,70
+Taraba state,Wukari lga,2014,9,194
+Taraba state,Wukari lga,2015,4,34
+Taraba state,Wukari lga,2016,2,9
+Taraba state,Wukari lga,2018,4,37
+Taraba state,Wukari lga,2019,14,48
+Taraba state,Wukari lga,2020,2,6
+Taraba state,Wukari lga,2021,1,0
+Taraba state,Wukari lga,2023,1,2
+Taraba state,Wukari lga,2024,1,2
+Yobe state,,2009,2,12
+Yobe state,,2010,1,0
+Yobe state,,2011,1,8
+Yobe state,,2012,3,2
+Yobe state,,2013,1,3
+Yobe state,,2014,1,2
+Yobe state,,2016,1,2
+Yobe state,,2020,1,1
+Yobe state,,2021,3,54
+Yobe state,,2023,1,1
+Yobe state,,2024,1,0
+Yobe state,Bade lga,2012,2,5
+Yobe state,Bade lga,2013,1,25
+Yobe state,Bade lga,2020,2,4
+Yobe state,Bade lga,2022,2,2
+Yobe state,Bursari lga,2020,2,14
+Yobe state,Bursari lga,2021,1,13
+Yobe state,Bursari lga,2024,1,3
+Yobe state,Damaturu lga,2004,1,1
+Yobe state,Damaturu lga,2010,1,0
+Yobe state,Damaturu lga,2011,6,133
+Yobe state,Damaturu lga,2012,25,200
+Yobe state,Damaturu lga,2013,3,56
+Yobe state,Damaturu lga,2014,2,171
+Yobe state,Damaturu lga,2015,10,99
+Yobe state,Damaturu lga,2017,1,15
+Yobe state,Damaturu lga,2018,2,39
+Yobe state,Damaturu lga,2019,3,34
+Yobe state,Damaturu lga,2021,1,3
+Yobe state,Damaturu lga,2024,5,12
+Yobe state,Fika lga,2012,1,0
+Yobe state,Fika lga,2013,1,6
+Yobe state,Fika lga,2014,1,6
+Yobe state,Fika lga,2015,3,17
+Yobe state,Fune lga,2012,1,4
+Yobe state,Fune lga,2013,1,22
+Yobe state,Fune lga,2014,3,8
+Yobe state,Fune lga,2024,1,1
+Yobe state,Geidam lga,2011,1,6
+Yobe state,Geidam lga,2012,1,1
+Yobe state,Geidam lga,2013,1,4
+Yobe state,Geidam lga,2014,1,5
+Yobe state,Geidam lga,2015,2,11
+Yobe state,Geidam lga,2016,1,4
+Yobe state,Geidam lga,2017,1,2
+Yobe state,Geidam lga,2019,1,10
+Yobe state,Geidam lga,2020,4,4
+Yobe state,Geidam lga,2021,7,33
+Yobe state,Geidam lga,2022,3,14
+Yobe state,Geidam lga,2023,7,142
+Yobe state,Geidam lga,2024,7,36
+Yobe state,Gujba lga,2012,2,1
+Yobe state,Gujba lga,2013,4,116
+Yobe state,Gujba lga,2014,6,133
+Yobe state,Gujba lga,2015,9,199
+Yobe state,Gujba lga,2016,2,4
+Yobe state,Gujba lga,2017,5,41
+Yobe state,Gujba lga,2018,4,25
+Yobe state,Gujba lga,2019,7,48
+Yobe state,Gujba lga,2020,6,120
+Yobe state,Gujba lga,2021,10,45
+Yobe state,Gujba lga,2022,6,15
+Yobe state,Gujba lga,2023,9,22
+Yobe state,Gujba lga,2024,14,72
+Yobe state,Gulani lga,2010,1,1
+Yobe state,Gulani lga,2013,1,1
+Yobe state,Gulani lga,2014,1,17
+Yobe state,Gulani lga,2015,1,3
+Yobe state,Gulani lga,2016,2,20
+Yobe state,Karasuwa lga,2015,1,10
+Yobe state,Karasuwa lga,2023,1,1
+Yobe state,Nangere lga,2013,1,0
+Yobe state,Potiskum lga,2009,2,44
+Yobe state,Potiskum lga,2011,1,7
+Yobe state,Potiskum lga,2012,16,63
+Yobe state,Potiskum lga,2013,6,48
+Yobe state,Potiskum lga,2014,5,109
+Yobe state,Potiskum lga,2015,12,61
+Yobe state,Tarmuwa lga,2013,1,9
+Yobe state,Tarmuwa lga,2015,2,82
+Yobe state,Tarmuwa lga,2016,3,32
+Yobe state,Tarmuwa lga,2017,1,2
+Yobe state,Tarmuwa lga,2018,1,48
+Yobe state,Tarmuwa lga,2019,2,2
+Yobe state,Tarmuwa lga,2020,1,7
+Yobe state,Tarmuwa lga,2021,2,2
+Yobe state,Tarmuwa lga,2023,1,4
+Yobe state,Tarmuwa lga,2024,2,103
+Yobe state,Yunusari lga,2003,1,1
+Yobe state,Yunusari lga,2004,1,20
+Yobe state,Yunusari lga,2015,3,20
+Yobe state,Yunusari lga,2016,1,7
+Yobe state,Yunusari lga,2017,1,8
+Yobe state,Yunusari lga,2019,2,3
+Yobe state,Yunusari lga,2020,1,4
+Yobe state,Yunusari lga,2021,5,1
+Yobe state,Yunusari lga,2024,1,0
+Zamfara state,,2011,1,7
+Zamfara state,,2019,1,7
+Zamfara state,Bungudu lga,2022,1,7
+Zamfara state,Gusau lga,2001,1,2
+Zamfara state,Gusau lga,2010,1,3
+Zamfara state,Gusau lga,2021,1,3
+Zamfara state,Gusau lga,2022,1,1
+Zamfara state,Kaura-Namoda lga,2022,1,4
+Zamfara state,Maradun lga,2021,1,2
+Zamfara state,Maru lga,2018,3,35
+Zamfara state,Maru lga,2021,1,16
+Zamfara state,Tsafe lga,2020,1,2
+Zamfara state,Tsafe lga,2024,1,40
+Zamfara state,Zurmi lga,2024,2,80

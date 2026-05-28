@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Yobe",
+    "bounds": {
+      "minlat": 10.5676346,
+      "minlon": 9.6748363,
+      "maxlat": 13.3806130,
+      "maxlon": 12.5039215
+    }
+  },
+  {
+    "name": "Adamawa",
+    "bounds": {
+      "minlat": 7.3543309,
+      "minlon": 11.3415213,
+      "maxlat": 10.9494610,
+      "maxlon": 13.7295510
+    }
+  },
+  {
+    "name": "Borno",
+    "bounds": {
+      "minlat": 10.0221825,
+      "minlon": 11.5293356,
+      "maxlat": 13.7214360,
+      "maxlon": 14.6780140
+    }
+  }
+]

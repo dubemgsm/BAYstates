@@ -1,0 +1,36 @@
+[2026-05-27T13:33:35Z] Copied raw JSON to /workspaces/BAYstates/data/raw/nigeria_schools_overpass_20260527T133334Z.json
+[2026-05-27T13:33:35Z] Converted JSON to CSV: /workspaces/BAYstates/data/processed_schools.csv
+[2026-05-27T13:33:35Z] Cleaned CSV saved: /workspaces/BAYstates/data/clean/nigeria_schools_clean.csv
+[2026-05-27T13:33:35Z] Scripts saved in /workspaces/BAYstates/scripts
+2790 /workspaces/BAYstates/data/clean/nigeria_schools_clean.csv
+[2026-05-27T13:37:33Z] Filtered for BAY and wrote /workspaces/BAYstates/data/clean/bay_nigeria_schools_clean.csv (1 lines)
+[2026-05-27T13:41:37Z] Downloaded BAY Overpass to /workspaces/BAYstates/data/raw/bay_schools_overpass_20260527T134126Z.json and processed into /workspaces/BAYstates/data/clean/bay_nigeria_schools_clean.csv
+[2026-05-27T13:45:34Z] Created BAY raw and cleaned datasets: /workspaces/BAYstates/data/raw/bay_schools_overpass_*.json -> /workspaces/BAYstates/data/clean/bay_nigeria_schools_clean.csv
+WROTE /workspaces/BAYstates/data/raw/20260527T142413Z_Summary.csv
+WROTE /workspaces/BAYstates/data/raw/20260527T142413Z_Data.csv
+WROTE /workspaces/BAYstates/data/clean/bay_idp_sites_clean_20260527T142413Z.csv
+[2026-05-27T14:24:16Z] Processed IDP Excel; raw copied to /workspaces/BAYstates/data/raw/nigeria-bay-idps-and-returnees-hdx_20260527T142413Z.xlsx; cleaned (if any) to /workspaces/BAYstates/data/clean
+total 87M
+-rw-rw-rw- 1 codespace codespace 920K May 27 14:24 20260527T142413Z_Data.csv
+-rw-rw-rw- 1 codespace codespace  552 May 27 14:24 20260527T142413Z_Summary.csv
+-rw-rw-rw- 1 codespace codespace  27M May 27 14:03 NGA_SAP_1km_2020.zip
+-rw-rw-rw- 1 codespace codespace  57M May 27 14:01 Nigeria_100m_Age_structures.7z
+-rw-rw-rw- 1 codespace codespace  315 May 27 14:07 bay_bounds.json
+-rw-rw-rw- 1 codespace codespace 1.5M May 27 14:07 bay_bounds_osm.json
+-rw-rw-rw- 1 codespace codespace  491 May 27 14:07 bay_bounds_simple.json
+-rw-rw-rw- 1 codespace codespace  695 May 27 13:41 bay_schools_overpass_20260527T134126Z.json
+-rw-rw-rw- 1 codespace codespace  29K May 27 13:43 bay_schools_overpass_20260527T134325Z.json
+-rw-rw-rw- 1 codespace codespace 879K May 27 14:24 nigeria-bay-idps-and-returnees-hdx_20260527T142413Z.xlsx
+-rw-rw-rw- 1 codespace codespace 159K May 27 13:33 nigeria_schools_csv_20260527T133334Z.csv
+-rw-rw-rw- 1 codespace codespace 1.1M May 27 13:33 nigeria_schools_overpass_20260527T133334Z.json
+-rw-rw-rw- 1 codespace codespace 159K May 27 13:33 processed_schools_20260527T133334Z.csv
+total 1.6M
+-rw-rw-rw- 1 codespace codespace 162K May 27 14:24 bay_idp_sites_clean_20260527T142413Z.csv
+-rw-rw-rw- 1 codespace codespace 3.3K May 27 13:43 bay_nigeria_schools_clean.csv
+-rw-rw-rw- 1 codespace codespace  107 May 27 14:09 bay_school_age_population_approx_2020.csv
+-rw-rw-rw- 1 codespace codespace 1.3M May 27 14:11 conflict_data_bay.csv
+-rw-rw-rw- 1 codespace codespace 132K May 27 13:33 nigeria_schools_clean.csv
+[2026-05-27T15:15:19Z] Assigned conflict events to LGAs and updated gap index. Conflict geo: /workspaces/BAYstates/data/conflict.geojson. Updated: /workspaces/BAYstates/data/processed/lga_gap_index.geojson, /workspaces/BAYstates/data/processed/lga_gap_index.csv
+Years covered: 1990 - 2024
+Total events: 7418
+Events in latest year 2024 490
